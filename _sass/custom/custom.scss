@@ -1,4 +1,5 @@
 @import 'https://use.fontawesome.com/releases/v5.6.1/css/all.css';
+@import './_fonts.scss';
 
 // variables: https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
 
@@ -7,7 +8,9 @@
 ////////////
 $nav-width: 232px;
 $content-width: 900px;
-$serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+$body-font-family: 'Akkurat Pro Regular';
+$serif-font-family: $body-font-family;
+// $serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
 $media-queries: (
   xs: 320px,
   sm: 500px,
@@ -207,20 +210,25 @@ code, pre.highlight {
         }
     }
     h1 {
-        text-transform: uppercase;
+        font: 46px/1.2em "Campton Book",Tahoma,sans-serif;
+        color: #4e2a84;
+        margin-bottom: 1rem;
+        text-transform: none;
     }
 
     h2 {
-        font-size: 1.6em !important;
-        font-weight: 500;
-        // border-bottom: solid 1px #CCC;
-        // padding-bottom: 6px;
+        // font-size: 1.6em !important;
+        // font-weight: 500;
+        font: 34px/1.2em "Campton Bold",Impact,sans-serif;
+        color: #4e2a84;
     }
 
     h3 {
+        font: 26px/1.2em "Akkurat Pro Regular",Arial,sans-serif;
+        color: #716c6b;
         margin-bottom: 0px;
-        font-size: 1.4em !important;
-        font-weight: 400;
+        // font-size: 1.4em !important;
+        // font-weight: 400;
     }
     iframe {
         border: solid 20px $light-gray-1 !important;
