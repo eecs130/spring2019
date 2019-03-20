@@ -88,6 +88,11 @@ $media-queries: (
         }
     }
 }
+
+.site-title, h1 {
+    font: 46px/1.2em "Campton Book",Tahoma,sans-serif;
+    color: #4e2a84;
+}
 .main-content {
     @include mq(md) {
       margin-left: $nav-width;
@@ -210,8 +215,6 @@ code, pre.highlight {
         }
     }
     h1 {
-        font: 46px/1.2em "Campton Book",Tahoma,sans-serif;
-        color: #4e2a84;
         margin-bottom: 1rem;
         text-transform: none;
     }
