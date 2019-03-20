@@ -286,13 +286,13 @@ code, pre.highlight {
             font-size: 1em;
             //line-height: 1.4em;
         }
-        border-left: solid 5px $purple-400;
-        border-top: solid 1px $border-gray;
-        border-right: solid 1px $border-gray;
-        border-bottom: solid 1px $border-gray;
-        padding: 5px 5px 5px 10px;
+        border-left: solid 14px #DDD;
+        /* border-top: solid 1px #DDD; */
+        /* border-right: solid 1px #DDD; */
+        /* border-bottom: solid 1px #DDD; */
+        padding: 5px 5px 5px 15px;
         margin: 0px 0px 20px 0px;
-        background-color: $light-gray;
+        background-color: #F6F6F6;
     }
 
     .prose, .prose p, .prose li {
