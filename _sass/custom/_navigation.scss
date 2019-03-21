@@ -1,0 +1,61 @@
+.navigation, .site-title, .site-footer {
+    width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.side-bar {
+    align-items: flex-start;
+
+    @include mq(md) {
+      width: $nav-width + 16px;
+    }
+
+    @include mq(lg) {
+      width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+      min-width: $nav-width;
+    }
+    .navigation {
+        padding-top: 1rem;
+        .navigation-list {
+            li {
+                line-height: 1.5em;
+                font-size: 11pt !important;
+            }
+        }
+
+        .navigation-list-link {
+            color: #666;
+            &:hover {
+                text-decoration: underline;
+            }
+            &.active {
+                color: $purple-200;
+                font-weight: 400;
+            }
+        }
+        .has-children::before {
+            position: absolute;
+            color: #666;
+            font-weight: 900;
+            font-size: 14px;
+            margin-left: -12px;
+            font-family: 'Font Awesome 5 Free';
+            content: "\f0da";
+            //content: "\f105";
+        }
+        .active.has-children::before {
+            margin-left: -15px;
+            content: "\f0d7";
+            //content: "\f107";
+        }
+
+        .navigation-list-child-list {
+            margin-left: 5px;
+
+            .navigation-list-item::before {
+                content: '';
+            }
+        }
+    }
+}

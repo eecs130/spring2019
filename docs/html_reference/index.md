@@ -5,7 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-# I. INTRO TO HTML
+# I. Intro to HTML
 > HyperText Markup Language, commonly abbreviated as HTML, is the standard markup language used to create web pages. Along with CSS, and JavaScript, HTML is a cornerstone technology used to create web pages, as well as to create user interfaces for mobile and web applications. <br> [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 ## Overview
@@ -24,12 +24,12 @@ Learning HTML requires three main kinds of knowledge:
 This chapter will help you to develop the three kinds of knowledge listed above (grammar, vocabulary, and using online resources). The first section reviews HTML *grammar* rules, which are presented as [10 Rules of Thumb](/html/rules.html).
 
 After reviewing these grammar rules, please review the 7 sub-sections within this chapter, which cover some of the most common HTML tags, or * HTML vocabulary*:
-* [Text Markup](text_tags.html)
-* [Linking](linking.html)
-* [Images](images.html)
-* [Media](media.html)
-* [Semantic Tags](containers.html)
-* [Complex Tags](complex_tags.html)
-* [Form Tags](forms.html)
+1. [Text Markup](text_tags.html)
+2. [Anchor Tags](linking.html)
+3. [Image Tags](image_tags.html)
+4. [Media Tags](media_tags.html)
+5. [Semantic Tags](semantic_tags.html)
+6. [Complex Tags](complex_tags.html)
+7. [Form Tags](form_tags.html)
 
 Each of the HTML tag pages includes an interactive code sample that you are welcome to manipulate and incorporate into your own HTML files. Finally, at the end of each page, will be a list of additional resources that will help you get oriented with the larger web design and development community.

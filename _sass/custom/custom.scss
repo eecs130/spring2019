@@ -1,93 +1,14 @@
 @import 'https://use.fontawesome.com/releases/v5.6.1/css/all.css';
+@import './_variables.scss';
 @import './_fonts.scss';
+@import './_navigation.scss';
 
 // variables: https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
 
 ////////////
 // Layout //
 ////////////
-$nav-width: 232px;
-$content-width: 900px;
-$body-font-family: 'Akkurat Pro Regular';
-$serif-font-family: $body-font-family;
-// $serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-$media-queries: (
-  xs: 320px,
-  sm: 500px,
-  md: 740px,
-  lg: $content-width,
-  xl: 1316px
-) !default;
 
-.navigation, .site-title, .site-footer {
-    width: 100%;
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
-
-.side-bar {
-    align-items: flex-start;
-
-    @include mq(md) {
-      width: $nav-width + 16px;
-    }
-
-    @include mq(lg) {
-      width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-      min-width: $nav-width;
-    }
-    .navigation {
-        padding-top: 1rem;
-        .navigation-list {
-            li {
-                line-height: 1.5em;
-                font-size: 14px;
-            }
-        }
-        // .navigation-list-item {
-        //     .navigation-list-child-list {
-        //         display: block;
-        //     }
-        // }
-
-        .navigation-list-link {
-            color: #222;
-            &:hover {
-                text-decoration: underline;
-            }
-            &.active {
-                color: $purple-200;
-                font-weight: 400;
-            }
-        }
-        // .top {
-        //     text-transform: uppercase;
-        // }
-        .has-children::before {
-            position: absolute;
-            color: #444;
-            font-weight: 900;
-            font-size: 14px;
-            margin-left: -12px;
-            font-family: 'Font Awesome 5 Free';
-            content: "\f0da";
-            //content: "\f105";
-        }
-        .active.has-children::before {
-            margin-left: -15px;
-            content: "\f0d7";
-            //content: "\f107";
-        }
-
-        .navigation-list-child-list {
-            margin-left: 10px;
-
-            .navigation-list-item::before {
-                content: '';
-            }
-        }
-    }
-}
 
 .site-title, h1 {
     font: 46px/1.2em "Campton Book",Tahoma,sans-serif;
@@ -115,27 +36,6 @@ $media-queries: (
     }
 }
 
-////////////
-// Colors //
-////////////
-$light-gray: #F6F6F6;
-$light-gray-1: #e7e7e7;
-$grey-lt-000: $light-gray;
-$code-background-color: $light-gray;
-$border-gray: #DDD;
-$sidebar-color: $light-gray;
-$purple-100: #4e2486;
-$purple-200: #5f3992;
-$purple-300: #714f9e;
-$purple-400: #8365aa;
-$purple-500: #947bb6;
-$purple-600: #a691c2;
-$purple-700: #b8a7ce;
-$purple-800: #c9bdda;
-$purple-900: #dbd3e6;
-$purple-1000: #ede9f2;
-$python: #22b8cf;
-
 .icon-jupyter {
     width: 35px;
     margin-left: -4px;
@@ -154,8 +54,6 @@ $python: #22b8cf;
     }
 }
 
-
-$link-color: $purple-200;
 
 a {
     color: $link-color;
@@ -224,18 +122,17 @@ code, pre.highlight {
         // font-weight: 500;
         font: 34px/1.2em "Campton Bold",Impact,sans-serif;
         color: #4e2a84;
+        margin-bottom: 0px;
     }
 
     h3 {
         font: 26px/1.2em "Akkurat Pro Regular",Arial,sans-serif;
         color: #716c6b;
         margin-bottom: 0px;
-        // font-size: 1.4em !important;
-        // font-weight: 400;
     }
-    iframe {
-        border: solid 20px $light-gray-1 !important;
-    }
+    // iframe {
+    //     border: solid 20px $light-gray-1 !important;
+    // }
     .tbl-files {
         width: auto !important;
         td:last-child {
@@ -431,8 +328,7 @@ code, pre.highlight {
 
 .codepen-frame {
     display: block;
-    // margin-left: auto;
-    // margin-right: auto;
     width: 100%;
-    height: 300px;
+    height: 350px;
+    margin-bottom: 20px;
 }

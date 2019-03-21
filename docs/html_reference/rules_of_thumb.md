@@ -5,7 +5,7 @@ nav_order: 1
 parent: HTML Reference
 ---
 
-# HTML: 10 RULES OF THUMB
+# HTML: 10 Rules of Thumb
 > **References**:
 > For more information, watch the Lynda.com video tutorials:
 * [The Importance of HTML](http://www.lynda.com/HTML-tutorials/importance-HTML/170427/196129-4.html) (3:19)
