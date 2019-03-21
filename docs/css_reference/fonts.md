@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Text & Fonts
-parent: CSS Reference
+parent: CSS Resources
 nav_order: 6
 has_children: true
 ---

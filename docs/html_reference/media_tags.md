@@ -2,7 +2,7 @@
 layout: default
 title: Media Tags
 nav_order: 5
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: Media Tags

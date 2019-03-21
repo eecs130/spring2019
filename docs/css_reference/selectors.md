@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Selectors
-parent: CSS Reference
+parent: CSS Resources
 nav_order: 2
 has_children: true
 ---

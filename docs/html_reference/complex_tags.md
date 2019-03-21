@@ -2,7 +2,7 @@
 layout: default
 title: Complex Tags
 nav_order: 8
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: Complex Tags

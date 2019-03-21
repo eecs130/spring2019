@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 10 Rules of Thumb
-parent: CSS Reference
+parent: CSS Resources
 nav_order: 1
 has_children: true
 ---

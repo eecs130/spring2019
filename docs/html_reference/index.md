@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HTML Reference
+title: HTML Resources
 nav_order: 5
 has_children: true
 ---

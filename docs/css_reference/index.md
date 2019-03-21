@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSS Reference
+title: CSS Resources
 nav_order: 6
 has_children: true
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Form Tags
 nav_order: 9
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: Forms

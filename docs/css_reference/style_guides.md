@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Style Guides
-parent: CSS Reference
+parent: CSS Resources
 nav_order: 8
 has_children: true
 ---

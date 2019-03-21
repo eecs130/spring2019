@@ -2,7 +2,7 @@
 layout: default
 title: Anchor Tags (Hyperlinks)
 nav_order: 3
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: Hyperlinks Using Anchors

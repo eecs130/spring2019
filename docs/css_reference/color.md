@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Color
-parent: CSS Reference
+parent: CSS Resources
 nav_order: 5
 has_children: true
 ---

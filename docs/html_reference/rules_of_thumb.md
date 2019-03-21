@@ -2,7 +2,7 @@
 layout: default
 title: 10 Rules of Thumb
 nav_order: 1
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: 10 Rules of Thumb

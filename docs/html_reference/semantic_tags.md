@@ -2,7 +2,7 @@
 layout: default
 title: Semantic Tags
 nav_order: 7
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: Semantic Tags

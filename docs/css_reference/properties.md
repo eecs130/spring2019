@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Properties
-parent: CSS Reference
+parent: CSS Resources
 nav_order: 3
 has_children: true
 ---

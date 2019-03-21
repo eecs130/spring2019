@@ -2,7 +2,7 @@
 layout: default
 title: Text Markup Tags
 nav_order: 2
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: Text Markup

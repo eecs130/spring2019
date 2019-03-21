@@ -2,7 +2,7 @@
 layout: default
 title: Image Tags
 nav_order: 4
-parent: HTML Reference
+parent: HTML Resources
 ---
 
 # HTML: Images

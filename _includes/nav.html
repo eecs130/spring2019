@@ -5,12 +5,6 @@
 
 <nav>
     <ul class="navigation-list">
-        <!-- CUSTOM HACK -->
-        <li class="navigation-list-item">
-          <a class="navigation-list-link" href="https://piazza.com/northwestern/winter2019/eecs110/home" target="_blank">
-              Announcements <i class="fas fa-external-link-alt"></i>
-          </a>
-        </li>
         <!-- END CUSTOM HACK -->
       {% assign pages_list = site.html_pages | sort:"nav_order" %}
       {% for node in pages_list %}
@@ -34,5 +28,11 @@
           {% endif %}
         {% endunless %}
       {% endfor %}
+      <!-- CUSTOM HACK -->
+      <li class="navigation-list-item">
+        <a class="navigation-list-link" href="https://piazza.com/northwestern/winter2019/eecs110/home" target="_blank">
+            Announcements <i class="fas fa-external-link-alt"></i>
+        </a>
+      </li>
     </ul>
   </nav>
