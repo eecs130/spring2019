@@ -2,7 +2,7 @@
 layout: default
 title: 10 Rules of Thumb
 parent: CSS Reference
-nav_order: 6
+nav_order: 1
 has_children: true
 ---
 
@@ -112,10 +112,10 @@ h1 {
 ### 2. No HTML tags in the CSS
 CSS files should never have HTML tags inside of them. No angle brackets &lt;&gt; in a style sheet, ever. Don't do this:
 
-```html
+```css
 <h1>Hello World!</h1>
 h1 {
-    color: maroon
+    color: maroon;
     margin-left: 40px;
 }
 ```
