@@ -101,9 +101,14 @@ code, pre.highlight {
 //////////////////////////
 // Other Customizations //
 //////////////////////////
+@media (max-width: 45rem) {
+    .page-header .main-content {
+        display: none;
+    }
+}
 // @media (min-width: 46.25rem) {
 .page-header .main-content{
-    justify-content: flex-start !important;
+    justify-content: flex-start;
     color: #BBB;
     font-weight: 100;
 }
