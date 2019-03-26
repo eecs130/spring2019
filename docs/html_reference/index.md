@@ -5,7 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-# I. Intro to HTML
+# Intro to HTML
 > HyperText Markup Language, commonly abbreviated as HTML, is the standard markup language used to create web pages. Along with CSS, and JavaScript, HTML is a cornerstone technology used to create web pages, as well as to create user interfaces for mobile and web applications. <br> [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 ## Overview

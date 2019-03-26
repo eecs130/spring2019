@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Complex Tags
-nav_order: 8
+title: 7. Compound Tags
+nav_order: 7
 parent: HTML Resources
 ---
 
-# HTML: Complex Tags
+# Compound Tags
 
 ## Lists
 Sample code to make ordered and un-ordered lists:

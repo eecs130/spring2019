@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Box Model & Layouts
+title: 6. Box Model & Layouts
 parent: CSS Resources
-nav_order: 7
+nav_order: 6
 has_children: true
 ---
 
-# CSS: Box Model & Layouts
+# Box Model & Layouts
 
 ## 1. Recommended Lynda.com Videos
 

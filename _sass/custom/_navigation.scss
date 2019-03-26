@@ -4,6 +4,9 @@
     padding-right: 1rem;
 }
 
+.fs-6 {
+    font-size: 16pt !important;
+}
 .side-bar {
     align-items: flex-start;
 
@@ -35,19 +38,18 @@
             }
         }
         .has-children::before {
-            position: absolute;
+            text-decoration: none;
+            position: relative;
             color: #666;
             font-weight: 900;
             font-size: 14px;
-            margin-left: -12px;
+            left: -8px;
             font-family: 'Font Awesome 5 Free';
             content: "\f0da";
-            //content: "\f105";
         }
         .active.has-children::before {
-            margin-left: -15px;
+            left: -10px;
             content: "\f0d7";
-            //content: "\f107";
         }
 
         .navigation-list-child-list {

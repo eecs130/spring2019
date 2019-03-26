@@ -101,6 +101,14 @@ code, pre.highlight {
 //////////////////////////
 // Other Customizations //
 //////////////////////////
+// @media (min-width: 46.25rem) {
+.page-header .main-content{
+    justify-content: flex-start !important;
+    color: #BBB;
+    font-weight: 100;
+}
+// }
+
 .page-content {
     ul, ol {
         padding-left: 4em;
@@ -126,7 +134,7 @@ code, pre.highlight {
     }
 
     h3 {
-        font: 26px/1.2em "Akkurat Pro Regular",Arial,sans-serif;
+        font: 22px/1.2em "Akkurat Pro Regular",Arial,sans-serif !important;
         color: #716c6b;
         margin-bottom: 0px;
     }
@@ -205,7 +213,7 @@ code, pre.highlight {
 
     .prose, .prose p, .prose li {
         font-family: $serif-font-family;
-        font-size: 1.15em;
+        font-size: 1.05em;
         line-height: 1.7em;
         li {
             font-size: 1em;

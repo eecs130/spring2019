@@ -16,7 +16,7 @@
 title: CS130 Spring '19
 email: vanwars@northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  EECS Description
+  Tools and Technologies of the World Wide Web: An Introduction
 baseurl: "/spring2019" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vanwars
@@ -25,7 +25,8 @@ github_username:  vanwars
 markdown: kramdown
 theme: "just-the-docs"
 remote_theme: "pmarsceill/just-the-docs"
-search_enabled: true
+
+# search_enabled: true
 
 aux_links:
     "Piazza <i class='fas fa-external-link-alt'></i>":

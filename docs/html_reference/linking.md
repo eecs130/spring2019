@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Anchor Tags (Hyperlinks)
+title: 3. Hyperlinks
 nav_order: 3
 parent: HTML Resources
 ---
 
-# HTML: Hyperlinks Using Anchors
+# Hyperlinks Using Anchors
 > **Overview Resources**
 >
 > * Lynda.com video: [Exploring the anchor element](http://www.lynda.com/HTML-tutorials/Exploring-anchor-element/170427/196164-4.html) (2:58)

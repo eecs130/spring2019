@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Image Tags
+title: 4. Image Tags
 nav_order: 4
 parent: HTML Resources
 ---
 
-# HTML: Images
+# Image Tags
 
 > **Overview Resources**
 >

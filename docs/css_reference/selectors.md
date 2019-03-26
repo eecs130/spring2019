@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Selectors
+title: 2. Selectors
 parent: CSS Resources
 nav_order: 2
 has_children: true
 ---
 
-# CSS: Selectors
+# Selectors
 
 > **References**
 > W3Schools Reference:

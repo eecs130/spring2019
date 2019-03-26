@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-# II. Intro to CSS
+# Intro to CSS
 
 ## Lynda.com Videos
 Below, we have curated a series of videos from Lynda.com that we recommend you review.

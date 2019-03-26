@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Text Markup Tags
+title: 2. Text Markup Tags
 nav_order: 2
 parent: HTML Resources
 ---
 
-# HTML: Text Markup
+# Text Markup
 This page covers how to mark-up text using several basic HTML tags. See the [Formatting Content](http://www.lynda.com/HTML-tutorials/Formatting-content-HTML/170427/196141-4.html) (6:58) video from Lynda.com to get an overview, and then review the HTML tags below:
 
 ## 1. Paragraphs

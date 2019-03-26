@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Text & Fonts
+title: 5. Text & Fonts
 parent: CSS Resources
-nav_order: 6
+nav_order: 5
 has_children: true
 ---
 
-# CSS: Text & Fonts
+# Text & Fonts
 
 ## Formatting Text
 > **Additional Resources**

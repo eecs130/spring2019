@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Style Guides
+title: 8. Style Guides
 parent: CSS Resources
 nav_order: 8
 has_children: true
 ---
 
-# CSS: Style Guides
+# Style Guides
 
 Style guides help developers to create useable, well-designed pages. They specify the rules that developers must follow (colors, textures, fonts, icons, etc.) when they implement web pages. Some examples of style guides include:
 * [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)

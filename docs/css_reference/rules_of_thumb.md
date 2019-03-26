@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 10 Rules of Thumb
+title: 1. Rules of Thumb
 parent: CSS Resources
 nav_order: 1
 has_children: true
 ---
 
-# 10 Rules of Thumb
+# Rules of Thumb
 
 |--|--|
 | 1. | Follow the CSS naming conventions: avoid spaces, capital letters, and special characters when naming files |

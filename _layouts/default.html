@@ -16,7 +16,10 @@
     </div>
     <div class="main-content-wrap">
       <div class="page-header">
-        <div class="main-content">
+          <div class="main-content">
+              {{ site.description }}
+          </div>
+        <!-- <div class="main-content">
           {% if site.search_enabled != nil %}
           <div class="search js-search">
             <div class="search-input-wrap">
@@ -33,7 +36,7 @@
               {% endfor %}
             </ul>
           {% endif %}
-        </div>
+        </div> -->
       </div>
       <div class="main-content">
         {% unless page.url == "/" %}

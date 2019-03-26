@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Semantic Tags
-nav_order: 7
+title: 6. Semantic Tags
+nav_order: 6
 parent: HTML Resources
 ---
 
-# HTML: Semantic Tags
+# Semantic Tags
 > **Reference Videos & Readings**
 * Suggested Lynda.com Videos:
   * [The value of structure](http://www.lynda.com/HTML-tutorials/value-structure/170427/196152-4.html) (2:48)
