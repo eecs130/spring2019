@@ -3,6 +3,7 @@
     padding-left: 1rem;
     padding-right: 1rem;
 }
+
 .navigation-list-toggle {
     top: 0.5rem;
 }
@@ -21,11 +22,19 @@
       min-width: $nav-width;
     }
     .navigation {
+        // padding-left: 0rem;
+        // padding-right: 0rem;
         padding-top: 3rem;
         .navigation-list {
-            li {
+            // padding-left: 0em;
+            >li {
+                // margin-left: 1.5em;
                 line-height: 1.5em;
                 font-size: 11pt !important;
+                a:hover {
+                    text-decoration: none;
+                    font-weight: 600;
+                }
             }
         }
 
@@ -46,11 +55,13 @@
             font-weight: 900;
             font-size: 14px;
             left: -8px;
+            margin-left: -6px;
             font-family: 'Font Awesome 5 Free';
             content: "\f0da";
         }
         .active.has-children::before {
-            left: -10px;
+            left: -7px;
+            margin-left: -9px;
             content: "\f0d7";
         }
 
