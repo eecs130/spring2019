@@ -72,12 +72,12 @@ For any other issues that you think are not appropriate for the peer mentors or 
 {: .prose}
 
 ## Grading
-This course will consist of weekly homework assignments and lab exercises, which will help you build up to a final project. We will also have two quizzes to test your understanding of web concepts. You may miss 2 labs without a grade penalty. Your passes are to be used fo sickness, unexpected events, or travel, so don't cash them in too early!
+This course will consist of weekly homework assignments and lab exercises, which will help you build up to a final project. We will also have two quizzes to test your understanding of web concepts. You may miss 2 labs without a grade penalty. Your passes are to be used for sickness, unexpected events, or travel, so don't cash them in too early!
 
 | **2 Quizzes** | 2 x 10 Points | 20 Points | 20% |
-| **8 Labs** | 8 x 1 Point | 8 Points | 8% |
-| **8 Homeworks** | 8 x 6 Points | 48 Points | 48% |
-| **1 Project** | 1 x 24 Points | 24 Points | 24% |
+| **8 Labs** | 8 x 1.25 Point | 10 Points | 10% |
+| **8 Homeworks** | 8 x 6 Points | 48 Points | ~50% |
+| **1 Project** | 1 x 22 Points | 22 Points | ~20% |
 | | | **100 Points** | **100%** |
 
 Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be rounded or curved.
