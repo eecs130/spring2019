@@ -29,7 +29,7 @@ permalink: /
             </td>
             <td>
                 <strong>Mo Apr 1</strong><br>
-                TBD
+                Intro to the Course
             </td>
             <td></td>
         </tr>
@@ -37,7 +37,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 3</strong><br>
-                TBD
+                Intro to HTML
             </td>
             <td></td>
         </tr>
@@ -45,10 +45,10 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr Apr 5</strong><br>
-                Github
+                Activity: Configuring Atom; practice with HTML tags
             </td>
             <td>
-                <span class="label label-default">Tutorial 1</span>
+                <span class="label label-default">Lab 1</span>
             </td>
         </tr>
         <!-- WEEK #2 -->
@@ -56,7 +56,7 @@ permalink: /
             <td>Week 2</td>
             <td>
                 <strong>Mo Apr 8</strong><br>
-                TBD
+                Intro to Semantic Tags + Crawlers + Jaws
             </td>
             <td></td>
         </tr>
@@ -64,18 +64,18 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 10</strong><br>
-                TBD
+                Intro to CSS
             </td>
-            <td></td>
+            <td><span class="label label-green">Homework 1</span></td>
         </tr>
         <tr class="done">
             <td></td>
             <td>
-                <strong>We Apr 12</strong><br>
-                TBD
+                <strong>Fr Apr 12</strong><br>
+                Activity: Setting up GitHub
             </td>
             <td>   
-                <span class="label label-default">Tutorial 2</span>
+                <span class="label label-default">Lab 2</span>
             </td>
         </tr>
         <!-- WEEK #3 -->
@@ -83,36 +83,15 @@ permalink: /
             <td>Week 3</td>
             <td>
                 <strong>Mo Apr 15</strong><br>
-                TBD
+                Intro to Design
             </td>
-            <td>
-                <span class="label label-green">Homework 1</span>
-            </td>
+            <td></td>
         </tr>
         <tr class="done">
             <td></td>
             <td>
                 <strong>We Apr 17</strong><br>
-                TBD
-            </td>
-            <td></td>
-        </tr>
-        <tr class="done">
-            <td></td>
-            <td>
-                <strong>Fr Apr 19</strong><br>
-                TBD
-            </td>
-            <td>
-                <span class="label label-default">Tutorial 3 </span>
-            </td>
-        </tr>
-        <!-- WEEK #4 -->
-        <tr class="done">
-            <td>Week 4</td>
-            <td>
-                <strong>Mo Apr 22</strong><br>
-                TBD
+                CSS & Layouts
             </td>
             <td>
                 <span class="label label-green">Homework 2</span>
@@ -121,25 +100,27 @@ permalink: /
         <tr class="done">
             <td></td>
             <td>
+                <strong>Fr Apr 19</strong><br>
+                Activity: Design a Style Guide (& practice with selectors)
+            </td>
+            <td>
+                <span class="label label-default">Lab 3 </span>
+            </td>
+        </tr>
+        <!-- WEEK #4 -->
+        <tr class="done">
+            <td>Week 4</td>
+            <td>
+                <strong>Mo Apr 22</strong><br>
+                Intro to JavaScript (ES6) & the DOM
+            </td>
+            <td></td>
+        </tr>
+        <tr class="done">
+            <td></td>
+            <td>
                 <strong>We Apr 24</strong><br>
-                TBD
-            </td>
-            <td></td>
-        </tr>
-        <tr class="done">
-            <td></td>
-            <td>
-                <strong>Fr Apr 26</strong><br>
-                TBD
-            </td>
-            <td><span class="label label-default">Tutorial 4</span></td>
-        </tr>
-        <!-- WEEK #5 -->
-        <tr class="done">
-            <td>Week 5</td>
-            <td>
-                <strong>Mo Apr 29</strong><br>
-                TBD
+                Variables, Expressions, and Statements
             </td>
             <td>
                 <span class="label label-green">Homework 3</span>
@@ -148,100 +129,116 @@ permalink: /
         <tr class="done">
             <td></td>
             <td>
-                <strong>We May 1</strong><br>
-                TBD
+                <strong>Fr Apr 26</strong><br>
+                Activity: JavaScript practice
+            </td>
+            <td><span class="label label-default">Lab 4</span></td>
+        </tr>
+        <!-- WEEK #5 -->
+        <tr class="done">
+            <td>Week 5</td>
+            <td>
+                <strong>Mo Apr 29</strong><br>
+                DOM Manipulation with JavaScript
             </td>
             <td></td>
         </tr>
         <tr class="done">
             <td></td>
             <td>
-                <strong>Fr May 3</strong><br>
-                TBD
+                <strong>We May 1</strong><br>
+                Functions and Events
             </td>
+            <td>
+                <span class="label label-green">Homework 4</span>
+            </td>
+        </tr>
+        <tr class="done">
             <td></td>
+            <td>
+                <strong>Fr May 3</strong><br>
+                Activity: Event Handlers
+            </td>
+            <td><span class="label label-default">Lab 5</span></td>
         </tr>
         <!-- WEEK #6 -->
         <tr>
             <td>Week 6</td>
             <td>
                 <strong>Mo May 6</strong><br>
-                TBD
+                Functions practice
             </td>
-            <td>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>We May 8</strong><br>
-                TBD
+                Lists and Loops
             </td>
-            <td></td>
+            <td><span class="label label-green">Homework 5</span></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Fr May 10</strong><br>
-                TBD
+                Activity: Lists and loops
             </td>
-            <td><span class="label label-default">Tutorial 5</span></td>
+            <td><span class="label label-default">Lab 6</span></td>
         </tr>
         <!-- WEEK #7 -->
         <tr>
             <td>Week 7</td>
             <td>
                 <strong>Mo May 13</strong><br>
-                TBD<br>
+                Working with JSON + AJAX
             </td>
-            <td>
-                <span class="label label-green">Homework 4</span>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>We May 15</strong><br>
-                TBD
+                Templating
             </td>
             <td>
+                <span class="label label-green">Homework 6</span>
             </td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Fr May 17</strong><br>
-                TBD
+                Activity: AJAX + Templates
             </td>
-            <td><span class="label label-default">Tutorial 6</span></td>
+            <td><span class="label label-default">Lab 7</span></td>
         </tr>
         <!-- WEEK #8 -->
         <tr>
             <td>Week 8</td>
             <td>
                 <strong>Mo May 20</strong><br>
-                TBD
+                Web Architecture and cURLing
             </td>
-            <td>
-                <span class="label label-purple">Project 1</span>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>We May 22</strong><br>
-                TBD
+                REST
             </td>
             <td>
+                <span class="label label-green">Homework 7</span>
             </td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Fr May 24</strong><br>
-                TBD
+                Activity: Designing a REST API with Node.js + Heroku
             </td>
-            <td><span class="label label-default">Tutorial 7</span></td>
+            <td><span class="label label-default">Lab 8</span></td>
         </tr>
         <!-- WEEK #9 -->
         <tr>
@@ -250,9 +247,7 @@ permalink: /
                 <strong>Mo May 27</strong><br>
                 Memorial Day (No Class)
             </td>
-            <td>
-                <span class="label label-green">Homework 5</span>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -260,7 +255,9 @@ permalink: /
                 <strong>We May 29</strong><br>
                 TBD
             </td>
-            <td></td>
+            <td>
+                <span class="label label-green">Homework 8</span>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -268,7 +265,7 @@ permalink: /
                 <strong>Fr May 31</strong><br>
                 TBD
             </td>
-            <td><span class="label label-default">Tutorial 8</span></td>
+            <td><span class="label label-default">Lab 9</span></td>
         </tr>
         <!-- WEEK #10 -->
         <tr>
@@ -277,9 +274,7 @@ permalink: /
                 <strong>Mo Jun 3</strong><br>
                 TBD
             </td>
-            <td>
-                 <span class="label label-green">Homework 6</span>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -293,9 +288,9 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr Jun 7</strong><br>
-                TBD
+                Final Project Presentations
             </td>
-            <td></td>
+            <td><span class="label label-purple">Final Project</span></td>
         </tr>
     </tbody>
 </table>
