@@ -9,9 +9,7 @@ has_children: true
 permalink: /
 ---
 # Schedule
-> This schedule is subject to change (as needed). In addition, unless otherwise indicated:
-> * Homeworks and projects are always due on Tuesday at 11:59PM
-> * Tutorials are always due on Friday at 6:00PM
+> This schedule is subject to change (as needed). Unless otherwise indicated, homework is always due on Wednesday at 11:59PM.
 
 <table class="schedule">
     <thead>
