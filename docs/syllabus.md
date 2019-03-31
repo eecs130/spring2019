@@ -94,7 +94,7 @@ Homework will be approximately weekly. Homework assignments are due at 11:59pm o
 | **No submission** | 0 Points | No effort made |
 | **Check minus** | 2 Points | Some effort made, but significant features are missing or not working |
 | **Check** | 4 Points | Mostly working, but some errors or issues were found |
-| **Check Plus**| 6 Points | Working exactly as we it should |
+| **Check Plus**| 6 Points | Working exactly as it should |
 
 In EXTREME circumstances (e.g, if you leave town for a funeral), you must contact your dean of students (like Joe Holtgreive) and have them contact me if they deem it necessary to give you an extension or make other accommodations. Please understand that we do this to make things fair for all students – I don’t want to be in charge of vetting individual students’ situations, and I don’t want students to have to tell me their personal troubles if they don't want to.
 {: .prose}

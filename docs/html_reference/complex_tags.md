@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 7. Compound Tags
-nav_order: 7
+title: 6. Compound Tags
+nav_order: 6
 parent: HTML Resources
 ---
 

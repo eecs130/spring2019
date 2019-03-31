@@ -5,7 +5,6 @@
 layout: default
 nav_order: 2
 title: Schedule
-has_children: true
 permalink: /
 ---
 # Schedule
@@ -13,11 +12,10 @@ permalink: /
 
 <table class="schedule">
     <thead>
-        <tr>
-            <th>Week</th>
-            <th>Topic</th>
-            <th>Due</th>
-        </tr>
+        <th>Week</th>
+        <th>Lecture Materials</th>
+        <th>Readings & Resources</th>
+        <th>Due</th>
     </thead>
     <tbody>
         <!-- WEEK #1 -->
@@ -30,12 +28,23 @@ permalink: /
                 Intro to the Course
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr class="done">
             <td></td>
             <td>
                 <strong>We Apr 3</strong><br>
                 Intro to HTML
+            </td>
+            <td>
+                <ol>
+                    <li>
+                        <a href="https://www.lynda.com/SharedPlaylist/7af53539388c4aa3b76d1c29eb1635b9?org=northwestern.edu" target="_blank">Lynda.com: Playlist 1</a>
+                    </li>
+                    <li>
+                        <a href="docs/html_reference/">HTML: Overview + Sections 1-6</a><br>(1. Rules of Thumb - 6. Compound Tags)
+                    </li>
+                </ol>
             </td>
             <td></td>
         </tr>
@@ -45,8 +54,9 @@ permalink: /
                 <strong>Fr Apr 5</strong><br>
                 Activity: Configuring Atom; practice with HTML tags
             </td>
+            <td></td>
             <td>
-                <span class="label label-default">Lab 1</span>
+                <a class="label label-default" href="https://docs.google.com/document/d/1vPMeSS0KnBl15nzcmTAsk66gbZvmw8uDzVWXuRe6KEQ/edit?usp=sharing" target="_blank">Lab 1 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <!-- WEEK #2 -->
@@ -56,6 +66,16 @@ permalink: /
                 <strong>Mo Apr 8</strong><br>
                 Intro to Semantic Tags + Crawlers + Jaws
             </td>
+            <td>
+                <ol>
+                    <li>
+                        <a href="https://www.lynda.com/SharedPlaylist/9f47a9e8f6004188a37f59c1dbb59e87?org=northwestern.edu" target="_blank">Lynda.com: Playlist 2</a>
+                    </li>
+                    <li>
+                        <a href="docs/html_reference/semantic_tags.html">HTML: 7. Semantic Tags</a>
+                    </li>
+                </ol>
+            </td>
             <td></td>
         </tr>
         <tr class="done">
@@ -64,7 +84,20 @@ permalink: /
                 <strong>We Apr 10</strong><br>
                 Intro to CSS
             </td>
-            <td><span class="label label-green">Homework 1</span></td>
+            <td>
+                <ol>
+                    <li>
+                        <a href="https://www.lynda.com/SharedPlaylist/9ea7e4d0f8524a0eb4a0e0601ecbecbf?org=northwestern.edu" target="_blank">Lynda.com: Playlist 3</a><br>
+                        Intro to CSS
+                    </li>
+                    <li>
+                        <a href="docs/css_reference/">CSS: Section 6</a>
+                    </li>
+                </ol>
+            </td>
+            <td>
+                <a class="label label-green" href="https://docs.google.com/document/d/1Oqj7O-RpuoccVEDQMslvfCmyjAs4I_0yZvgQyncNm_4/edit?usp=sharing" target="_blank">Homework 1 <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <tr class="done">
             <td></td>
@@ -72,6 +105,7 @@ permalink: /
                 <strong>Fr Apr 12</strong><br>
                 Activity: Setting up GitHub
             </td>
+            <td></td>
             <td>   
                 <span class="label label-default">Lab 2</span>
             </td>
@@ -84,12 +118,24 @@ permalink: /
                 Intro to Design
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr class="done">
             <td></td>
             <td>
                 <strong>We Apr 17</strong><br>
                 CSS & Layouts
+            </td>
+            <td>
+                <ol>
+                    <li>
+                        <a href="https://www.lynda.com/SharedPlaylist/3f5e0d36264b4e41a6ac8e36cf06a6ba?org=northwestern.edu" target="_blank">Lynda.com: Playlist 4</a><br>
+                        CSS Properties
+                    </li>
+                    <li>
+                        <a href="docs/css_reference/">CSS: Section 6</a>
+                    </li>
+                </ol>
             </td>
             <td>
                 <span class="label label-green">Homework 2</span>
@@ -101,6 +147,7 @@ permalink: /
                 <strong>Fr Apr 19</strong><br>
                 Activity: Design a Style Guide (& practice with selectors)
             </td>
+            <td></td>
             <td>
                 <span class="label label-default">Lab 3 </span>
             </td>
@@ -113,6 +160,7 @@ permalink: /
                 Intro to JavaScript (ES6) & the DOM
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr class="done">
             <td></td>
@@ -120,6 +168,7 @@ permalink: /
                 <strong>We Apr 24</strong><br>
                 Variables, Expressions, and Statements
             </td>
+            <td></td>
             <td>
                 <span class="label label-green">Homework 3</span>
             </td>
@@ -130,6 +179,7 @@ permalink: /
                 <strong>Fr Apr 26</strong><br>
                 Activity: JavaScript practice
             </td>
+            <td></td>
             <td><span class="label label-default">Lab 4</span></td>
         </tr>
         <!-- WEEK #5 -->
@@ -140,6 +190,7 @@ permalink: /
                 DOM Manipulation with JavaScript
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr class="done">
             <td></td>
@@ -147,6 +198,7 @@ permalink: /
                 <strong>We May 1</strong><br>
                 Functions and Events
             </td>
+            <td></td>
             <td>
                 <span class="label label-green">Homework 4</span>
             </td>
@@ -157,6 +209,7 @@ permalink: /
                 <strong>Fr May 3</strong><br>
                 Activity: Event Handlers
             </td>
+            <td></td>
             <td><span class="label label-default">Lab 5</span></td>
         </tr>
         <!-- WEEK #6 -->
@@ -167,6 +220,7 @@ permalink: /
                 Functions practice
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -174,6 +228,7 @@ permalink: /
                 <strong>We May 8</strong><br>
                 Lists and Loops
             </td>
+            <td></td>
             <td><span class="label label-green">Homework 5</span></td>
         </tr>
         <tr>
@@ -182,6 +237,7 @@ permalink: /
                 <strong>Fr May 10</strong><br>
                 Activity: Lists and loops
             </td>
+            <td></td>
             <td><span class="label label-default">Lab 6</span></td>
         </tr>
         <!-- WEEK #7 -->
@@ -192,6 +248,7 @@ permalink: /
                 Working with JSON + AJAX
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -199,6 +256,7 @@ permalink: /
                 <strong>We May 15</strong><br>
                 Templating
             </td>
+            <td></td>
             <td>
                 <span class="label label-green">Homework 6</span>
             </td>
@@ -209,6 +267,7 @@ permalink: /
                 <strong>Fr May 17</strong><br>
                 Activity: AJAX + Templates
             </td>
+            <td></td>
             <td><span class="label label-default">Lab 7</span></td>
         </tr>
         <!-- WEEK #8 -->
@@ -219,6 +278,7 @@ permalink: /
                 Web Architecture and cURLing
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -226,6 +286,7 @@ permalink: /
                 <strong>We May 22</strong><br>
                 REST
             </td>
+            <td></td>
             <td>
                 <span class="label label-green">Homework 7</span>
             </td>
@@ -236,6 +297,7 @@ permalink: /
                 <strong>Fr May 24</strong><br>
                 Activity: Designing a REST API with Node.js + Heroku
             </td>
+            <td></td>
             <td><span class="label label-default">Lab 8</span></td>
         </tr>
         <!-- WEEK #9 -->
@@ -246,6 +308,7 @@ permalink: /
                 Memorial Day (No Class)
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -253,6 +316,7 @@ permalink: /
                 <strong>We May 29</strong><br>
                 TBD
             </td>
+            <td></td>
             <td>
                 <span class="label label-green">Homework 8</span>
             </td>
@@ -263,6 +327,7 @@ permalink: /
                 <strong>Fr May 31</strong><br>
                 TBD
             </td>
+            <td></td>
             <td><span class="label label-default">Lab 9</span></td>
         </tr>
         <!-- WEEK #10 -->
@@ -273,6 +338,7 @@ permalink: /
                 TBD
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -281,6 +347,7 @@ permalink: /
                 TBD
             </td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -288,6 +355,7 @@ permalink: /
                 <strong>Fr Jun 7</strong><br>
                 Final Project Presentations
             </td>
+            <td></td>
             <td><span class="label label-purple">Final Project</span></td>
         </tr>
     </tbody>

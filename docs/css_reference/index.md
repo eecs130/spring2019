@@ -6,20 +6,25 @@ has_children: true
 ---
 
 # Intro to CSS
+CSS is a language that helps designers to control the look-and-feel of a website. CSS can be used to create layouts, font assignments, color schemes, margins and spacing, and even animations.
+{: .prose}
 
-## Lynda.com Videos
-Below, we have curated a series of videos from Lynda.com that we recommend you review.
+## Resources and Reference Materials
+Below, I have curated some resources and Lynda.com playlists to help you learn about CSS. Don't feel like you have to memorize all of these properties: the CSS vocabulary is expansive, and is best learned as you design your own creations. Think of these resources as references that you may consult as you go. That said, knowing the rules that govern the CSS vocabulary is important to being able to use the language. As such, you will need to understand the CSS [Rules of Thumb](rules_of_thumb.html), so do take some time to ensure that you understand the
+{: .prose}
 
-|--|--|
-| [Introduction](https://www.lynda.com/CSS-tutorials/Welcome/417645/484766-4.html) | 1:09 |
-| [What's this course for?](https://www.lynda.com/CSS-tutorials/Who-course/417645/484767-4.html) | 1:59 |
-| [What is CSS?](https://www.lynda.com/CSS-tutorials/What-CSS/417645/484769-4.html) | 3:26 |
-| [CSS syntax](https://www.lynda.com/CSS-tutorials/CSS-syntax/417645/484771-4.html) | 2:46 |
-| [Basic selector types](https://www.lynda.com/CSS-tutorials/Basic-selector-types/417645/484772-4.html)| 5:24 |
-| [How CSS works with HTML structure](https://www.lynda.com/CSS-tutorials/How-CSS-works-HTML-structure/417645/484773-4.html) | 4:51 |
-| [How browsers apply styles](https://www.lynda.com/CSS-tutorials/How-browsers-apply-styles/417645/484775-4.html)| 6:06 |
-| [The current state of CSS](https://www.lynda.com/CSS-tutorials/current-state-CSS/417645/484779-4.html)| 3:37 |
-| [Exploring CSS specifications](https://www.lynda.com/CSS-tutorials/Exploring-CSS-specifications/417645/484780-4.html)| 7:19 |
-| [Reading CSS specifications](https://www.lynda.com/CSS-tutorials/Reading-CSS-specifications/417645/484781-4.html)| 13:12 |
-| [Vendor prefixes](https://www.lynda.com/CSS-tutorials/Vendor-prefixes/417645/484796-4.html)| 4:49 |
-| [Additional resources](https://www.lynda.com/CSS-tutorials/Additional-resources/417645/484802-4.html) | 2:21 |
+### Lynda.com
+1. <a href="https://www.lynda.com/SharedPlaylist/9ea7e4d0f8524a0eb4a0e0601ecbecbf?org=northwestern.edu" target="_blank">Playlist 1: Intro to CSS</a>
+2. <a href="https://www.lynda.com/SharedPlaylist/3f5e0d36264b4e41a6ac8e36cf06a6ba?org=northwestern.edu" target="_blank">Playlist 2: CSS Properties</a>
+
+
+### Course Website
+1. [CSS Rules of Thumb](rules_of_thumb.html)
+2. [CSS Selectors](selectors.html)
+3. [CSS Properties](properties.html)
+4. [Color](color.html)
+5. [Text & Fonts](fonts.html)
+6. [Box Model & Layouts](box_model.html)
+7. [CSS Grid](css_grid.html)
+8. [Style Guides](style_guides.html)
+

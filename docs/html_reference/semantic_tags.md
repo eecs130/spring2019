@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 6. Semantic Tags
-nav_order: 6
+title: 7. Semantic Tags
+nav_order: 7
 parent: HTML Resources
 ---
 
