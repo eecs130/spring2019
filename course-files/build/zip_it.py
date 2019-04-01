@@ -2,7 +2,10 @@ import zipfile
 import os
 import argparse
 import sys
+
+# import and modify the excluded list:
 from excluded import EXCLUDED
+EXCLUDED.remove('index.html')
 
 def exclude(filename):
     from builtins import any
@@ -29,11 +32,11 @@ def main():
 
     filenames = [
         fname for fname in sorted(os.listdir(dir))
-        if fname not in EXCLUDED and os.path.isfile(dir+fname)
+        if not exclude(fname) and os.path.isfile(dir+fname)
     ]
     dirnames = [
         fname for fname in sorted(os.listdir(dir))
-        if fname not in EXCLUDED
+        if not exclude(fname)
     ]
     dirnames = [
         dir + fname for fname in dirnames if fname not in filenames

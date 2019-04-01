@@ -8,7 +8,7 @@ EXCLUDED = [
     'zip_it.py',
     'build_navigator.py',
     'notebook-to-script.py',
-    #'index.html',
+    'index.html',
     'index.md',
     'drafts',
     'solutions',
