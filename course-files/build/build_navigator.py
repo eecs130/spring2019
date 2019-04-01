@@ -161,6 +161,7 @@ def fun(dir, rootdir, counter):
     do_exclude = header not in [
         'course-files/',
         'course-files/lectures/',
+        'course-files/labs/',
         'course-files/homework/',
         'course-files/tutorials/',
         'course-files/projects/',

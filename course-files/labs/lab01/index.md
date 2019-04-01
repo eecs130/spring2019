@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Course Files
-has_children: true
-nav_order: 3
-nav_exclude: False
+title: Lab01
+nav_exclude: True
 ---
 
-# Course Files
+# Lab01
 
-[course-files/](.)
+[course-files/labs/lab01/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -33,10 +31,24 @@ nav_exclude: False
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
-            <td><a href="labs">labs</a></td>
+            <td><a href="assets">assets</a></td>
             <td align="right">4/1/2019 3:29 PM</td>
-            <td>224.0B</td>
+            <td>192.0B</td>
             <td>&nbsp;</td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
+                    <a href="index.html">index.html</a>
+            </td>
+            <td align="right">4/1/2019 3:27 PM</td>
+            <td>1.1KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab01/index.html"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+            </td>
         </tr>
     </tbody>
 </table>
