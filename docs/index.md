@@ -25,9 +25,20 @@ permalink: /
             </td>
             <td>
                 <strong>Mo Apr 1</strong><br>
-                Intro to the Course
+                Intro to the Course<br>
+                <a href="https://docs.google.com/presentation/d/1Y4tna4aIZMcpAF_oBPn0bplyDPKlsLTHDUdoAW4H2bw/edit?usp=sharing" target="_blank">Slides</a>
             </td>
-            <td></td>
+            <td>
+                Some background reading:
+                <ol>
+                    <li>
+                        <a href="http://www.vox.com/cards/the-internet/what-is-the-internet" target="_blank">What is the Internet?</a>
+                    </li>
+                    <li>
+                        <a href="http://www.vox.com/a/internet-maps" target="_blank">A Map History of the Internet</a>
+                    </li>
+                </ol>
+            </td>
             <td></td>
         </tr>
         <tr class="done">
@@ -42,7 +53,7 @@ permalink: /
                         <a href="https://www.lynda.com/SharedPlaylist/7af53539388c4aa3b76d1c29eb1635b9?org=northwestern.edu" target="_blank">Lynda.com: Playlist 1</a>
                     </li>
                     <li>
-                        <a href="docs/html_reference/">HTML: Overview + Sections 1-6</a><br>(1. Rules of Thumb - 6. Compound Tags)
+                        <a href="docs/html_reference/">HTML: Overview + Sections 1-6</a>
                     </li>
                 </ol>
             </td>
@@ -56,7 +67,8 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <a class="label label-default" href="https://docs.google.com/document/d/1vPMeSS0KnBl15nzcmTAsk66gbZvmw8uDzVWXuRe6KEQ/edit?usp=sharing" target="_blank">Lab 1 <i class="fas fa-link"></i></a>
+                <span class="label label-default">Lab 1</span>
+                <!-- <a class="label label-default" href="https://docs.google.com/document/d/1vPMeSS0KnBl15nzcmTAsk66gbZvmw8uDzVWXuRe6KEQ/edit?usp=sharing" target="_blank">Lab 1 <i class="fas fa-link"></i></a> -->
             </td>
         </tr>
         <!-- WEEK #2 -->
@@ -96,7 +108,8 @@ permalink: /
                 </ol>
             </td>
             <td>
-                <a class="label label-green" href="https://docs.google.com/document/d/1Oqj7O-RpuoccVEDQMslvfCmyjAs4I_0yZvgQyncNm_4/edit?usp=sharing" target="_blank">Homework 1 <i class="fas fa-link"></i></a>
+                <span class="label label-green">Homework 1</span>
+                <!-- <a class="label label-green" href="https://docs.google.com/document/d/1Oqj7O-RpuoccVEDQMslvfCmyjAs4I_0yZvgQyncNm_4/edit?usp=sharing" target="_blank">Homework 1 <i class="fas fa-link"></i></a> -->
             </td>
         </tr>
         <tr class="done">
@@ -157,7 +170,7 @@ permalink: /
             <td>Week 4</td>
             <td>
                 <strong>Mo Apr 22</strong><br>
-                Intro to JavaScript (ES6) & the DOM
+                Responsive CSS
             </td>
             <td></td>
             <td></td>
@@ -166,7 +179,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 24</strong><br>
-                Variables, Expressions, and Statements
+                Intro to JavaScript (ES6) & the DOM
             </td>
             <td></td>
             <td>
@@ -177,7 +190,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr Apr 26</strong><br>
-                Activity: JavaScript practice
+                Activity: JavaScript DOM Manipulation
             </td>
             <td></td>
             <td><span class="label label-default">Lab 4</span></td>
@@ -187,7 +200,7 @@ permalink: /
             <td>Week 5</td>
             <td>
                 <strong>Mo Apr 29</strong><br>
-                DOM Manipulation with JavaScript
+                Variables, Expressions, and Statements
             </td>
             <td></td>
             <td></td>
@@ -245,7 +258,7 @@ permalink: /
             <td>Week 7</td>
             <td>
                 <strong>Mo May 13</strong><br>
-                Working with JSON + AJAX
+                Web Architecture and cURLing
             </td>
             <td></td>
             <td></td>
@@ -254,7 +267,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 15</strong><br>
-                Templating
+                REST
             </td>
             <td></td>
             <td>
@@ -265,7 +278,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 17</strong><br>
-                Activity: AJAX + Templates
+                Activity: Designing a REST API with Node.js + Heroku
             </td>
             <td></td>
             <td><span class="label label-default">Lab 7</span></td>
@@ -275,7 +288,7 @@ permalink: /
             <td>Week 8</td>
             <td>
                 <strong>Mo May 20</strong><br>
-                Web Architecture and cURLing
+                Working with JSON + AJAX
             </td>
             <td></td>
             <td></td>
@@ -284,7 +297,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 22</strong><br>
-                REST
+                Templating
             </td>
             <td></td>
             <td>
@@ -295,7 +308,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 24</strong><br>
-                Activity: Designing a REST API with Node.js + Heroku
+                Activity: AJAX + Templates
             </td>
             <td></td>
             <td><span class="label label-default">Lab 8</span></td>
@@ -314,7 +327,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 29</strong><br>
-                TBD
+                Working with third-party APIs (part 1)
             </td>
             <td></td>
             <td>
@@ -325,7 +338,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 31</strong><br>
-                TBD
+                Working with third-party APIs (part 1)
             </td>
             <td></td>
             <td><span class="label label-default">Lab 9</span></td>

@@ -72,12 +72,11 @@ For any other issues that you think are not appropriate for the peer mentors or 
 {: .prose}
 
 ## Grading
-This course will consist of weekly homework assignments and lab exercises, which will help you build up to a final project. We will also have two quizzes to test your understanding of web concepts. You may miss 2 labs without a grade penalty. Your passes are to be used for sickness, unexpected events, or travel, so don't cash them in too early!
+This course will consist of weekly homework assignments and lab exercises, which will help you build up to a final project. You may miss 2 labs without a grade penalty. Your passes are to be used for sickness, unexpected events, or travel, so don't cash them in too early!
 
-| **2 Quizzes** | 2 x 10 Points | 20% |
-| **8 Labs** | 8 x 1.25 Points | 10% |
+| **8 Labs** | 8 x 2.5 Points | 20% |
 | **8 Homeworks** | 8 x 6 Points | ~50% |
-| **1 Project** | 1 x 22 Points | ~20% |
+| **1 Project** | 1 x 32 Points | ~30% |
 | | | **100%** |
 
 Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be rounded or curved.
@@ -95,6 +94,8 @@ Homework will be approximately weekly. Homework assignments are due at 11:59pm o
 | **Check minus** | 2 Points | Some effort made, but significant features are missing or not working |
 | **Check** | 4 Points | Mostly working, but some errors or issues were found |
 | **Check Plus**| 6 Points | Working exactly as it should |
+
+If you would like to resubmit your homework, you have one week to revise and resubmit to (potentially) receive full credit. If you turn your homework late (within 48 hours of the deadline) you will be penalized 2 points (~33%). If you resubmit after first turning in a late homework assignment, you can only receive a maximum of 4/6 points.
 
 In EXTREME circumstances (e.g, if you leave town for a funeral), you must contact your dean of students (like Joe Holtgreive) and have them contact me if they deem it necessary to give you an extension or make other accommodations. Please understand that we do this to make things fair for all students – I don’t want to be in charge of vetting individual students’ situations, and I don’t want students to have to tell me their personal troubles if they don't want to.
 {: .prose}
