@@ -37,6 +37,7 @@ permalink: /
                     <li>
                         <a href="http://www.vox.com/a/internet-maps" target="_blank">A Map History of the Internet</a>
                     </li>
+                    <li><a href="https://webfoundation.org/about/vision/history-of-the-web/" target="_blank">History of the Web</a></li>
                 </ol>
             </td>
             <td></td>
