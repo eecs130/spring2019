@@ -68,8 +68,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label label-default">Lab 1</span>
-                <!-- <a class="label label-default" href="https://docs.google.com/document/d/1vPMeSS0KnBl15nzcmTAsk66gbZvmw8uDzVWXuRe6KEQ/edit?usp=sharing" target="_blank">Lab 1 <i class="fas fa-link"></i></a> -->
+                <a class="label label-default" href="https://docs.google.com/document/d/1vPMeSS0KnBl15nzcmTAsk66gbZvmw8uDzVWXuRe6KEQ/edit?usp=sharing" target="_blank">Lab 1 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <!-- WEEK #2 -->
