@@ -17,8 +17,8 @@ permalink: /syllabus/
 | **Prerequisites** | No experience necessary! |
 | **Instructor** | Sarah Van Wart |
 | **Lecture** | MW 1:00-1:50pm, Tech Rm. L361 |
-| **Section 60** | Th 4-4:50pm, Tech Rm. L168 |
-| **Section 61** | Fr 1-1:50pm, Tech Rm. F281 |
+| **Section 63** | Fr 1-1:50pm, Tech Rm. L160 with Anna Deng |
+| **Section 64** | Fr 2-2:50pm, Tech Rm. L170 with Joseph Kim |
 
 This course is an introduction to the web, and assumes no prior knowledge. If you feel like you know nothing about coding (as in computer code) or design, but are a little bit curious about the web, then this course for you. If you’ve had quite a bit of experience with coding and design but want to continue developing your skills / portfolio, then this course may also be for you, although you may eventually want to explore additional courses offered in the CS Department (e.g. Agile Programming, Information Visualization, Intro to HCI, etc.).
 {: .prose}
