@@ -46,7 +46,8 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 3</strong><br>
-                Intro to HTML
+                Intro to Web Languages and the Browser + Overview of HTML<br>
+                <a href="https://docs.google.com/presentation/d/1UXTebjb3IPV7Dg0e276sDj_V3JODOaCGGaS5sHJmG_Y/edit?usp=sharing" target="_blank">Slides</a>
             </td>
             <td>
                 <ol>
@@ -55,6 +56,9 @@ permalink: /
                     </li>
                     <li>
                         <a href="docs/html_reference/">HTML: Overview + Sections 1-6</a>
+                    </li>
+                    <li>
+                        <a href="https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/" target="_blank">How browsers work</a> (optional)
                     </li>
                 </ol>
             </td>
@@ -108,8 +112,7 @@ permalink: /
                 </ol>
             </td>
             <td>
-                <span class="label label-green">Homework 1</span>
-                <!-- <a class="label label-green" href="https://docs.google.com/document/d/1Oqj7O-RpuoccVEDQMslvfCmyjAs4I_0yZvgQyncNm_4/edit?usp=sharing" target="_blank">Homework 1 <i class="fas fa-link"></i></a> -->
+                <a class="label label-green" href="https://docs.google.com/document/d/1Oqj7O-RpuoccVEDQMslvfCmyjAs4I_0yZvgQyncNm_4/edit?usp=sharing" target="_blank">Homework 1 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr class="done">

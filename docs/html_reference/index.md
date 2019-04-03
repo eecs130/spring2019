@@ -21,7 +21,7 @@ Learning HTML requires three main kinds of knowledge:
 3. Finally, an understanding of **how to seek out and effectively use information and resources**
 
 ## How to Use This Chapter
-This chapter will help you to develop the three kinds of knowledge listed above (grammar, vocabulary, and using online resources). The first section reviews HTML *grammar* rules, which are presented as [10 Rules of Thumb](/html/rules.html).
+This chapter will help you to develop the three kinds of knowledge listed above (grammar, vocabulary, and using online resources). The first section reviews HTML *grammar* rules, which are presented as [10 Rules of Thumb](rules_of_thumb.html).
 
 After reviewing these grammar rules, please review the 7 sub-sections within this chapter, which cover some of the most common HTML tags, or * HTML vocabulary*:
 1. [Text Markup](text_tags.html)

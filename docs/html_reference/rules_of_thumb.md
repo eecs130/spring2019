@@ -58,7 +58,7 @@ You'll eventually figure out the rules as you continue building web pages. You c
 ## 3. The browser ignores white space
 The browser ignores white space, which means that the following line of code:
 ```html
-<h1> My Heading</h1>
+<h1>My Heading</h1>
 ```
 is interpreted the same way as:
 
@@ -69,7 +69,13 @@ Heading</h1>
 ```
 or:
 ```html
-<h1> My Heading</h1>
+<h1> 
+    
+    
+    My Heading
+    
+    
+</h1>
 ```
 ## 4. Make your code readable by indenting and using line breaks
 
@@ -121,7 +127,7 @@ Note that the phrase "Welcome section" is ignored by the browser, but is useful 
 
 ```html
 <!-- Welcome Section -->
-<div>
+<section>
     <p>
         Welcome, <strong>Leonard</strong>
     </p>
@@ -129,13 +135,14 @@ Note that the phrase "Welcome section" is ignored by the browser, but is useful 
         <li>item 1</li>
         <li>item 2</li>
     </ol>
-</div>
+</section>
 ```
 
 ## 8. Links to CSS files go inside the &lt;head&gt; tag
 In the HTML code block below, that the link to the style sheet is specified within the **&lt;head&gt;** tag:
 ```html
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <title>My first web page</title>
@@ -144,7 +151,7 @@ In the HTML code block below, that the link to the style sheet is specified with
     <body>
         <!-- YOUR HTML CODE GOES INSIDE THE BODY TAG -->
         <h1>Welcome, Maria!</h1>
-        <img src="profile.png">
+        <img src="profile.png" alt="A profile picture">
     </body>
 </html>
 ```
@@ -153,7 +160,8 @@ In the HTML code block below, that the link to the style sheet is specified with
 In the HTML code block below (same as above), all of the visible content -- including headers, images, paragraphs, videos, audio, etc. -- goes in the **&lt;body&gt;** tag:
 
 ```html
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <title>My first web page</title>
@@ -162,10 +170,10 @@ In the HTML code block below (same as above), all of the visible content -- incl
     <body>
         <!-- YOUR HTML CODE GOES INSIDE THE BODY TAG -->
         <h1>Welcome, Maria!</h1>
-        <img src="profile.png">
+        <img src="profile.png" alt="A profile picture">
     </body>
 </html>
 ```
 
 ## 10. Use the Browser Inspector
-The browser inspector helps you to inspect HTML, CSS, and JavaScript code from within the browser. This is useful for finding bugs in your code, tinkering with existing code, or exploring others' code. To learn more about using the Browser Inspector here: https://developer.chrome.com/devtools.
+The browser inspector helps you to inspect HTML, CSS, and JavaScript code from within the browser. This is useful for finding bugs in your code, tinkering with existing code, or exploring others' code. To learn more about using the Browser Inspector here: [https://developer.chrome.com/devtools](https://developer.chrome.com/devtools).
