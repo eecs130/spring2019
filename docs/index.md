@@ -128,7 +128,8 @@ permalink: /
             <td>Week 3</td>
             <td>
                 <strong>Mo Apr 15</strong><br>
-                Intro to Design
+                - Intro to Design<br>
+                - Designing a Style Guide Activity
             </td>
             <td></td>
             <td></td>
@@ -137,7 +138,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 17</strong><br>
-                CSS & Layouts
+                CSS, Layouts, and Responsive CSS
             </td>
             <td>
                 <ol>
@@ -158,7 +159,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr Apr 19</strong><br>
-                Activity: Design a Style Guide (& practice with selectors)
+                Activity: Practice with CSS Grid
             </td>
             <td></td>
             <td>
@@ -170,7 +171,7 @@ permalink: /
             <td>Week 4</td>
             <td>
                 <strong>Mo Apr 22</strong><br>
-                Responsive CSS
+                Intro to JavaScript (ES6) & the DOM
             </td>
             <td></td>
             <td></td>
@@ -179,7 +180,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 24</strong><br>
-                Intro to JavaScript (ES6) & the DOM
+                Variables, Expressions, and Statements
             </td>
             <td></td>
             <td>
@@ -200,7 +201,7 @@ permalink: /
             <td>Week 5</td>
             <td>
                 <strong>Mo Apr 29</strong><br>
-                Variables, Expressions, and Statements
+                Functions and Events
             </td>
             <td></td>
             <td></td>
@@ -209,7 +210,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 1</strong><br>
-                Functions and Events
+                Functions practice
             </td>
             <td></td>
             <td>
@@ -220,7 +221,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 3</strong><br>
-                Activity: Event Handlers
+                Activity: Functions and Event Handlers
             </td>
             <td></td>
             <td><span class="label label-default">Lab 5</span></td>
@@ -230,7 +231,7 @@ permalink: /
             <td>Week 6</td>
             <td>
                 <strong>Mo May 6</strong><br>
-                Functions practice
+                Lists and Loops
             </td>
             <td></td>
             <td></td>
@@ -239,7 +240,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 8</strong><br>
-                Lists and Loops
+                AJAX + Templating
             </td>
             <td></td>
             <td><span class="label label-green">Homework 5</span></td>
@@ -248,7 +249,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 10</strong><br>
-                Activity: Lists and loops
+                Activity: AJAX + Templating: List and Detail pages
             </td>
             <td></td>
             <td><span class="label label-default">Lab 6</span></td>
@@ -288,7 +289,7 @@ permalink: /
             <td>Week 8</td>
             <td>
                 <strong>Mo May 20</strong><br>
-                Working with JSON + AJAX
+                Designing a REST API: Continued
             </td>
             <td></td>
             <td></td>
@@ -297,7 +298,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 22</strong><br>
-                Templating
+                Forms
             </td>
             <td></td>
             <td>
@@ -308,7 +309,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 24</strong><br>
-                Activity: AJAX + Templates
+                Activity: GET, POST, PUT, and DELETE
             </td>
             <td></td>
             <td><span class="label label-default">Lab 8</span></td>
