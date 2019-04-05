@@ -38,7 +38,7 @@ Taking this course means committing – for 10 weeks – to practicing your emer
 * Emirhan Poyraz (IbrahimPoyraz2014@u.northwestern.edu)
 
 ### Office Hours
-Consider office hours as an extension of the class, and we want you to rely on them to get the help you need for assignments. We expect that everyone will need to attend office hours from time to time throughout the quarter. Many students opt to go every week. Office hours will be posted on the course's Google Calendar (TBD).
+Consider office hours as an extension of the class, and we want you to rely on them to get the help you need for assignments. We expect that everyone will need to attend office hours from time to time throughout the quarter. Many students opt to go every week. Office hours will be posted on the course's [Google Calendar](https://calendar.google.com/calendar?cid=bDkydXZnbjZ1Y2MwY2tidjZwN25ucnUyczhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 {: .prose}
 
 ## Course Materials and Resources
