@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Resources
-nav_order: 7
+nav_order: 8
 ---
 
 # Design Resources

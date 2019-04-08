@@ -81,6 +81,7 @@ permalink: /
             <td>
                 <strong>Mo Apr 8</strong><br>
                 Intro to Semantic Tags + Crawlers + Jaws
+                <a href="https://docs.google.com/presentation/d/1BlaesCoO-FVOl7WI-ycxh8OE5wmm7Q-tvSFBUq2gmhk/edit?usp=sharing"  target="_blank">Slides</a>
             </td>
             <td>
                 <ol>
