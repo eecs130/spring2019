@@ -26,7 +26,7 @@ permalink: /
             <td>
                 <strong>Mo Apr 1</strong><br>
                 Intro to the Course<br>
-                <a href="https://docs.google.com/presentation/d/1Y4tna4aIZMcpAF_oBPn0bplyDPKlsLTHDUdoAW4H2bw/edit?usp=sharing" target="_blank">Slides</a>
+                <a href="https://docs.google.com/presentation/d/1Y4tna4aIZMcpAF_oBPn0bplyDPKlsLTHDUdoAW4H2bw/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td>
                 Some background reading:
@@ -47,7 +47,7 @@ permalink: /
             <td>
                 <strong>We Apr 3</strong><br>
                 Intro to Web Languages and the Browser + Overview of HTML<br>
-                <a href="https://docs.google.com/presentation/d/1UXTebjb3IPV7Dg0e276sDj_V3JODOaCGGaS5sHJmG_Y/edit?usp=sharing" target="_blank">Slides</a>
+                <a href="https://docs.google.com/presentation/d/1UXTebjb3IPV7Dg0e276sDj_V3JODOaCGGaS5sHJmG_Y/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td>
                 <ol>
@@ -81,7 +81,7 @@ permalink: /
             <td>
                 <strong>Mo Apr 8</strong><br>
                 Intro to Semantic Tags + Crawlers + Jaws
-                <a href="https://docs.google.com/presentation/d/1BlaesCoO-FVOl7WI-ycxh8OE5wmm7Q-tvSFBUq2gmhk/edit?usp=sharing"  target="_blank">Slides</a>
+                <a href="https://docs.google.com/presentation/d/1BlaesCoO-FVOl7WI-ycxh8OE5wmm7Q-tvSFBUq2gmhk/edit?usp=sharing"  target="_blank">slides</a>
             </td>
             <td>
                 <ol>
@@ -99,7 +99,9 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 10</strong><br>
-                Intro to CSS
+                Intro to CSS<br>
+                <a href="https://docs.google.com/presentation/d/10w0PWm6NJ0aUQfwbP3AIKqj9x1Y4PJdLo47CEIpJyEE/edit?usp=sharing" target="_blank">slides</a> |
+                <a href="https://docs.google.com/document/d/1F7uGD2IPUiSCJwRn8bqhBdkgd7_DdM9pjcgsx43eDxc/edit?usp=sharing" target="_blank">activity</a>
             </td>
             <td>
                 <ol>
@@ -122,7 +124,14 @@ permalink: /
                 <strong>Fr Apr 12</strong><br>
                 Activity: Setting up GitHub
             </td>
-            <td></td>
+            <td>
+                <ol>
+                    <li>
+                        <a href="https://www.lynda.com/SharedPlaylist/9f61d34a77fa4a5389763e6fee9e1397?org=northwestern.edu" target="_blank">Lynda.com: Playlist 4</a><br>
+                        Intro to Git and GitHub
+                    </li>
+                </ol>
+            </td>
             <td>   
                 <span class="label label-default">Lab 2</span>
             </td>
@@ -147,7 +156,7 @@ permalink: /
             <td>
                 <ol>
                     <li>
-                        <a href="https://www.lynda.com/SharedPlaylist/3f5e0d36264b4e41a6ac8e36cf06a6ba?org=northwestern.edu" target="_blank">Lynda.com: Playlist 4</a><br>
+                        <a href="https://www.lynda.com/SharedPlaylist/3f5e0d36264b4e41a6ac8e36cf06a6ba?org=northwestern.edu" target="_blank">Lynda.com: Playlist 5</a><br>
                         CSS Properties
                     </li>
                     <li>
