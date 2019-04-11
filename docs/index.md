@@ -133,7 +133,7 @@ permalink: /
                 </ol>
             </td>
             <td>   
-                <span class="label label-default">Lab 2</span>
+                <a class="label label-default" href="https://docs.google.com/document/d/1TuVOmbdH0HUS-hNjUibInJYHVIcaeiI1xwqrQiwFgV4/edit?usp=sharing" target="_blank">Lab 2 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <!-- WEEK #3 -->
@@ -165,7 +165,7 @@ permalink: /
                 </ol>
             </td>
             <td>
-                <span class="label label-green">Homework 2</span>
+                <a class="label label-green" href="https://docs.google.com/document/d/1CpH09FfvAaYsnA9K5Nb5BldIO3ocuTguYUxOBkqzbs4/edit?usp=sharing" target="_blank">Homework 2 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr class="done">
