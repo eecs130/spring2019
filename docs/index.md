@@ -141,10 +141,17 @@ permalink: /
             <td>Week 3</td>
             <td>
                 <strong>Mo Apr 15</strong><br>
-                - Intro to Design<br>
-                - Designing a Style Guide Activity
+                Intro to Design with CSS<br>
+                <a href="https://docs.google.com/presentation/d/1Pur_u9CGKDIPjdCvKtEbW4ViqetzkU0_PmGEzytTeWQ/edit?usp=sharing" target="_blank">slides</a>
             </td>
-            <td></td>
+            <td>
+                Background:
+                <ol>
+                    <li>
+                        <a href="https://courses.lumenlearning.com/wsu-sandbox/chapter/gestalt-principles-of-perception/" target="_blank">Gestalt principles of perception</a><br>
+                    </li>
+                </ol>
+            </td>
             <td></td>
         </tr>
         <tr class="done">
@@ -161,6 +168,9 @@ permalink: /
                     </li>
                     <li>
                         <a href="docs/css_reference/">CSS: Section 6</a>
+                    </li>
+                    <li>
+                        <a href="https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228" target="_blank">CSS Grid Tutorial</a>
                     </li>
                 </ol>
             </td>
