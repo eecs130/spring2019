@@ -158,7 +158,8 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 17</strong><br>
-                CSS, Layouts, and Responsive CSS
+                CSS, Layouts, and Responsive CSS<br>
+                <a href="https://docs.google.com/presentation/d/1zozDDoUQCOXo2GfedXQXGWSGN9-nqFG2flRcv2C59uU/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td>
                 <ol>
