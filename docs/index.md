@@ -186,7 +186,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label label-default">Lab 3 </span>
+                <a class="label label-default" href="https://docs.google.com/document/d/1iFgKVa3LrqtqMA5oGE-q3C0fpyTFzUwImQKMInZpcQk/edit?usp=sharing" target="_blank">Lab 3 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <!-- WEEK #4 -->
