@@ -208,7 +208,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label label-green">Homework 3</span>
+                <a class="label label-green" href="https://docs.google.com/document/d/1PVsYT8wScXRSbYxsAIicCN-E-Xo_02FnIU_JtneYq-s/edit?usp=sharing" target="_blank">Homework 3 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr class="done">

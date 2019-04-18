@@ -86,7 +86,7 @@ We will not be using the final exam time for this class. However, you will have 
 {: .prose}
 
 ### Homework Grading
-Homework will be approximately weekly. Homework assignments are due at 11:59pm on the date specified. We will still accept late homework up to 48 hours after the original due date, but with a 30% penalty. Homework is graded according to the following scale:
+Homework will be approximately weekly. Homework assignments are due at 11:59pm on Thursdays, unless otherwise specified. We will still accept late homework up to 48 hours after the original due date, but with a 30% penalty. Homework is graded according to the following scale:
 {: .prose}
 
 |--|--|
