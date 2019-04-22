@@ -196,7 +196,7 @@ permalink: /
             <td>
                 <strong>Mo Apr 22</strong><br>
                 Intro to JavaScript (ES6) & the DOM<br>
-                <a href="#" target="_blank">slides</a> (forthcoming)
+                <!-- <a href="#" target="_blank">slides</a> -->
             </td>
             <td>
                 JavaScript DOM (Safari Books)
@@ -213,7 +213,7 @@ permalink: /
             <td>
                 <strong>We Apr 24</strong><br>
                 Variables, Expressions, and Statements<br>
-                <a href="#" target="_blank">slides</a> (forthcoming)
+                <!-- <a href="#" target="_blank">slides</a> -->
             </td>
             <td>
             Intro to JavaScript w/ES6 (Safari Books)
