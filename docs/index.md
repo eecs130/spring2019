@@ -196,7 +196,7 @@ permalink: /
             <td>
                 <strong>Mo Apr 22</strong><br>
                 Intro to JavaScript (ES6) & the DOM<br>
-                <!-- <a href="#" target="_blank">slides</a> -->
+                <a href="https://docs.google.com/presentation/d/1iR1FsLoMaKWJGFb1wqgSUV3hUftZUnwPi8SLjdM5nH0/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td>
                 JavaScript DOM (Safari Books)
