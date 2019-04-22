@@ -8,7 +8,7 @@ title: Schedule
 permalink: /
 ---
 # Schedule
-> This schedule is subject to change (as needed). Unless otherwise indicated, homework is always due on Wednesday at 11:59PM.
+> This schedule is subject to change (as needed). Unless otherwise indicated, homework is always due on Thursday at 11:59PM.
 
 <table class="schedule">
     <thead>
@@ -195,18 +195,34 @@ permalink: /
             <td>Week 4</td>
             <td>
                 <strong>Mo Apr 22</strong><br>
-                Intro to JavaScript (ES6) & the DOM
+                Intro to JavaScript (ES6) & the DOM<br>
+                <a href="#" target="_blank">slides</a> (forthcoming)
             </td>
-            <td></td>
+            <td>
+                JavaScript DOM (Safari Books)
+                <ol>
+                    <li>
+                        <a href="" target="_blank">Intro to the DOM: Playlist 6</a>
+                    </li>
+                </ol>
+            </td>
             <td></td>
         </tr>
         <tr class="done">
             <td></td>
             <td>
                 <strong>We Apr 24</strong><br>
-                Variables, Expressions, and Statements
+                Variables, Expressions, and Statements<br>
+                <a href="#" target="_blank">slides</a> (forthcoming)
             </td>
-            <td></td>
+            <td>
+            Intro to JavaScript w/ES6 (Safari Books)
+            <ol>
+                <li>
+                    <a href="https://learning.oreilly.com/playlists/1e2e5976-709d-447c-8475-d6826d6ac78c" target="_blank">ES6: Playlist 7</a>
+                </li>
+            </ol>
+            </td>
             <td>
                 <a class="label label-green" href="https://docs.google.com/document/d/1PVsYT8wScXRSbYxsAIicCN-E-Xo_02FnIU_JtneYq-s/edit?usp=sharing" target="_blank">Homework 3 <i class="fas fa-link"></i></a>
             </td>
