@@ -202,7 +202,7 @@ permalink: /
                 JavaScript DOM (Safari Books)
                 <ol>
                     <li>
-                        <a href="" target="_blank">Intro to the DOM: Playlist 6</a>
+                        <a href="https://learning.oreilly.com/playlists/d99f7433-24b8-4370-8e33-f2bb8429e702" target="_blank">Intro to the DOM: Playlist 6</a>
                     </li>
                 </ol>
             </td>
