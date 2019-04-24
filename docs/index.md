@@ -195,7 +195,7 @@ permalink: /
             <td>Week 4</td>
             <td>
                 <strong>Mo Apr 22</strong><br>
-                Intro to JavaScript (ES6) & the DOM<br>
+                CSS Wrap-up<br>
                 <a href="https://docs.google.com/presentation/d/1iR1FsLoMaKWJGFb1wqgSUV3hUftZUnwPi8SLjdM5nH0/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td>
@@ -212,8 +212,8 @@ permalink: /
             <td></td>
             <td>
                 <strong>We Apr 24</strong><br>
-                Variables, Expressions, and Statements<br>
-                <!-- <a href="#" target="_blank">slides</a> -->
+                JavaScript and the DOM<br>
+                <a href="https://docs.google.com/presentation/d/1lgMgaMu15NFqIOsgjsAS_7YjEqAL7a6PMgBSayN57UM/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td>
             Intro to JavaScript w/ES6 (Safari Books)
