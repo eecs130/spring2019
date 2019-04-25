@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Course Files
-has_children: true
-nav_order: 3
-nav_exclude: False
+title: Js
+nav_exclude: True
 ---
 
-# Course Files
+# Js
 
-[course-files/](.)
+[course-files/labs/lab04/page-turner/js/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -29,14 +27,17 @@ nav_exclude: False
             <td>&nbsp;</td>
         </tr>
 
-        <tr>
-            <td valign="top">
-                <i class="fa fa-folder"></i>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
             </td>
-            <td><a href="labs">labs</a></td>
-            <td align="right">4/25/2019 8:38 AM</td>
-            <td>288.0B</td>
-            <td>&nbsp;</td>
+            <td nowrap>
+                    <a href="index.js">index.js</a>
+            </td>
+            <td align="right">4/24/2019 11:30 PM</td>
+            <td>1.9KB</td>
+            <td>
+            </td>
         </tr>
     </tbody>
 </table>

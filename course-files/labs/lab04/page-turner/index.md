@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Labs
-parent: Course Files
-nav_order: 2
-nav_exclude: False
+title: Page Turner
+nav_exclude: True
 ---
 
-# Labs
+# Page Turner
 
-[course-files/labs/](.)
+[course-files/labs/lab04/page-turner/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -33,42 +31,46 @@ nav_exclude: False
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
-            <td><a href="lab01">lab01</a></td>
-            <td align="right">4/1/2019 9:00 AM</td>
-            <td>160.0B</td>
+            <td><a href="css">css</a></td>
+            <td align="right">4/25/2019 8:38 AM</td>
+            <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
-            <td><a href="lab04">lab04</a></td>
-            <td align="right">4/25/2019 8:40 AM</td>
-            <td>288.0B</td>
+            <td><a href="js">js</a></td>
+            <td align="right">4/25/2019 8:38 AM</td>
+            <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
             <td class="first-column">
-                    <i class="far fa-file-archive"></i>
+                    <i class="far fa-file"></i>
             </td>
             <td nowrap>
-                    <a href="lab01.zip">lab01.zip</a>
+                    <a href="README.txt">README.txt</a>
             </td>
-            <td align="right">4/25/2019 8:40 AM</td>
-            <td>763.6KB</td>
+            <td align="right">4/25/2019 4:22 AM</td>
+            <td>95.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/page-turner/README.txt"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
             <td class="first-column">
-                    <i class="far fa-file-archive"></i>
+                    <i class="far fa-file"></i>
             </td>
             <td nowrap>
-                    <a href="lab04.zip">lab04.zip</a>
+                    <a href="license.txt">license.txt</a>
             </td>
-            <td align="right">4/25/2019 8:40 AM</td>
-            <td>8.5KB</td>
+            <td align="right">4/25/2019 4:22 AM</td>
+            <td>1.2KB</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/page-turner/license.txt"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

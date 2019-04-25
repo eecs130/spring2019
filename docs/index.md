@@ -234,7 +234,9 @@ permalink: /
                 Activity: JavaScript DOM Manipulation
             </td>
             <td></td>
-            <td><span class="label label-default">Lab 4</span></td>
+            <td>
+            <a class="label label-default" href="course-files/labs/lab04/README" target="_blank">Lab 4 <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <!-- WEEK #5 -->
         <tr class="done">

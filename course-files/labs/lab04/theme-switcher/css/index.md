@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Course Files
-has_children: true
-nav_order: 3
-nav_exclude: False
+title: Css
+nav_exclude: True
 ---
 
-# Course Files
+# Css
 
-[course-files/](.)
+[course-files/labs/lab04/theme-switcher/css/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -29,14 +27,17 @@ nav_exclude: False
             <td>&nbsp;</td>
         </tr>
 
-        <tr>
-            <td valign="top">
-                <i class="fa fa-folder"></i>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
             </td>
-            <td><a href="labs">labs</a></td>
-            <td align="right">4/25/2019 8:38 AM</td>
-            <td>288.0B</td>
-            <td>&nbsp;</td>
+            <td nowrap>
+                    <a href="style.css">style.css</a>
+            </td>
+            <td align="right">4/25/2019 4:22 AM</td>
+            <td>1.5KB</td>
+            <td>
+            </td>
         </tr>
     </tbody>
 </table>
