@@ -2,7 +2,7 @@
 layout: default
 title: Labs
 parent: Course Files
-nav_order: 2
+nav_order: 3
 nav_exclude: False
 ---
 
@@ -43,8 +43,8 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="lab04">lab04</a></td>
-            <td align="right">4/25/2019 8:40 AM</td>
-            <td>288.0B</td>
+            <td align="right">4/25/2019 11:17 PM</td>
+            <td>320.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -54,7 +54,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab01.zip">lab01.zip</a>
             </td>
-            <td align="right">4/25/2019 8:40 AM</td>
+            <td align="right">4/26/2019 5:23 PM</td>
             <td>763.6KB</td>
             <td>
             </td>
@@ -66,7 +66,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab04.zip">lab04.zip</a>
             </td>
-            <td align="right">4/25/2019 8:40 AM</td>
+            <td align="right">4/26/2019 5:23 PM</td>
             <td>8.5KB</td>
             <td>
             </td>

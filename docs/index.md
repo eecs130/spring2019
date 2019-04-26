@@ -256,7 +256,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label label-green">Homework 4</span>
+                <a class="label label-green" href="course-files/homework/hw04/README">Homework 4 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr class="done">

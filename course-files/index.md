@@ -33,6 +33,15 @@ nav_exclude: False
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
+            <td><a href="homework">homework</a></td>
+            <td align="right">4/26/2019 5:21 PM</td>
+            <td>192.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
             <td><a href="labs">labs</a></td>
             <td align="right">4/25/2019 8:38 AM</td>
             <td>288.0B</td>
