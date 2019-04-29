@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Homework
+title: Lectures
 parent: Course Files
-nav_order: 2
+nav_order: 4
 nav_exclude: False
 ---
 
-# Homework
+# Lectures
 
-[course-files/homework/](.)
+[course-files/lectures/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -33,9 +33,9 @@ nav_exclude: False
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
-            <td><a href="hw04">hw04</a></td>
-            <td align="right">4/26/2019 5:23 PM</td>
-            <td>320.0B</td>
+            <td><a href="lecture_09">lecture_09</a></td>
+            <td align="right">4/29/2019 10:38 AM</td>
+            <td>256.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -43,10 +43,10 @@ nav_exclude: False
                     <i class="far fa-file-archive"></i>
             </td>
             <td nowrap>
-                    <a href="hw04.zip">hw04.zip</a>
+                    <a href="lecture_09.zip">lecture_09.zip</a>
             </td>
             <td align="right">4/29/2019 2:28 PM</td>
-            <td>5.3MB</td>
+            <td>2.5KB</td>
             <td>
             </td>
         </tr>
