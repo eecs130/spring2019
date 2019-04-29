@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lab04
+title: Page Turner
 nav_exclude: True
 ---
 
-# Lab04
+# Page Turner
 
-[course-files/labs/lab04/](.)
+[course-files/labs/lab04/answers/page-turner/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -31,36 +31,18 @@ nav_exclude: True
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
-            <td><a href="answers">answers</a></td>
+            <td><a href="css">css</a></td>
             <td align="right">4/29/2019 11:08 AM</td>
-            <td>256.0B</td>
+            <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
-            <td><a href="font-switcher">font-switcher</a></td>
-            <td align="right">4/25/2019 8:38 AM</td>
-            <td>256.0B</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <i class="fa fa-folder"></i>
-            </td>
-            <td><a href="page-turner">page-turner</a></td>
-            <td align="right">4/25/2019 8:38 AM</td>
-            <td>256.0B</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <i class="fa fa-folder"></i>
-            </td>
-            <td><a href="theme-switcher">theme-switcher</a></td>
-            <td align="right">4/25/2019 8:38 AM</td>
-            <td>224.0B</td>
+            <td><a href="js">js</a></td>
+            <td align="right">4/29/2019 11:08 AM</td>
+            <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -68,13 +50,13 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
-                    <a href="README">
-                        Readme
-                    </a>
+                    <a href="README.txt">README.txt</a>
             </td>
-            <td align="right">4/25/2019 8:40 AM</td>
-            <td>361.0B</td>
+            <td align="right">4/24/2019 11:27 PM</td>
+            <td>95.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/answers/page-turner/README.txt"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -82,12 +64,12 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
-                    <a href="listing.html">listing.html</a>
+                    <a href="license.txt">license.txt</a>
             </td>
-            <td align="right">4/25/2019 8:40 AM</td>
-            <td>489.0B</td>
+            <td align="right">4/24/2019 11:27 PM</td>
+            <td>1.2KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/listing.html"
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/answers/page-turner/license.txt"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
