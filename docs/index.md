@@ -243,7 +243,10 @@ permalink: /
             <td>Week 5</td>
             <td>
                 <strong>Mo Apr 29</strong><br>
-                Functions and Events
+                Building blocks of programming<br>
+                <a href="https://docs.google.com/presentation/d/1-J7AL3vxSGsC9iK3QjQyJumvqOuoZcM8YfOvt976qWo/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="course-files/lectures/lecture_09.zip">lecture files</a>
+                
             </td>
             <td></td>
             <td></td>
