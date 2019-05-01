@@ -255,7 +255,9 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 1</strong><br>
-                Functions practice
+                Functions, events, and control<br>
+                <a href="https://docs.google.com/presentation/d/1Mbr2YAjnCpBDrPyGZoaBd-r7lHd5IYJIveHejZDPxgg/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="course-files/lectures/lecture_10.zip">lecture files</a>
             </td>
             <td></td>
             <td>
