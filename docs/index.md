@@ -271,7 +271,9 @@ permalink: /
                 Activity: Functions and Event Handlers
             </td>
             <td></td>
-            <td><span class="label label-default">Lab 5</span></td>
+            <td>
+                <a class="label label-default" href="course-files/labs/lab05/README" target="_blank">Lab 5 <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <!-- WEEK #6 -->
         <tr>

@@ -41,8 +41,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="in_class_activity">in_class_activity</a></td>
-            <td align="right">5/1/2019 8:57 AM</td>
-            <td>224.0B</td>
+            <td align="right">5/1/2019 11:58 AM</td>
+            <td>256.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
