@@ -392,7 +392,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 31</strong><br>
-                Working with third-party APIs (part 1)
+                Working with third-party APIs (part 2)
             </td>
             <td></td>
             <td><span class="label label-default">Lab 9</span></td>
