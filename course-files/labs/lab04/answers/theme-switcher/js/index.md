@@ -37,7 +37,7 @@ nav_exclude: True
             <td align="right">4/24/2019 11:27 PM</td>
             <td>457.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/answers/theme-switcher/js/index.js"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab04/answers/theme-switcher/js/index.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>

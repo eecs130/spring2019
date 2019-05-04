@@ -55,7 +55,7 @@ nav_exclude: True
             <td align="right">4/24/2019 11:27 PM</td>
             <td>95.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/answers/page-turner/README.txt"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab04/answers/page-turner/README.txt"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
@@ -69,7 +69,7 @@ nav_exclude: True
             <td align="right">4/24/2019 11:27 PM</td>
             <td>1.2KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/answers/page-turner/license.txt"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab04/answers/page-turner/license.txt"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>

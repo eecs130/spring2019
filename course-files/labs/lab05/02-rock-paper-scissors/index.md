@@ -55,7 +55,7 @@ nav_exclude: True
             <td align="right">5/2/2019 1:37 PM</td>
             <td>95.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab05/02-rock-paper-scissors/README.txt"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab05/02-rock-paper-scissors/README.txt"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
@@ -69,7 +69,7 @@ nav_exclude: True
             <td align="right">5/2/2019 1:37 PM</td>
             <td>1.2KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab05/02-rock-paper-scissors/license.txt"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab05/02-rock-paper-scissors/license.txt"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>

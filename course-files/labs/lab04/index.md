@@ -87,7 +87,7 @@ nav_exclude: True
             <td align="right">4/25/2019 8:40 AM</td>
             <td>489.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/listing.html"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab04/listing.html"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>

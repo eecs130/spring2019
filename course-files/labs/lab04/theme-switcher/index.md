@@ -55,7 +55,7 @@ nav_exclude: True
             <td align="right">4/25/2019 8:35 AM</td>
             <td>489.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/theme-switcher/index0.html"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab04/theme-switcher/index0.html"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>

@@ -37,7 +37,7 @@ nav_exclude: True
             <td align="right">5/2/2019 10:16 AM</td>
             <td>0.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/in_class_activity/js/index.js"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_10/in_class_activity/js/index.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>

@@ -46,7 +46,7 @@ nav_exclude: True
             <td align="right">4/29/2019 7:48 AM</td>
             <td>850.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_09/example_02_datatypes.js"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_09/example_02_datatypes.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
@@ -60,7 +60,7 @@ nav_exclude: True
             <td align="right">4/29/2019 8:16 AM</td>
             <td>999.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_09/example_03_variables.js"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_09/example_03_variables.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
@@ -74,7 +74,7 @@ nav_exclude: True
             <td align="right">4/29/2019 10:31 AM</td>
             <td>1.4KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_09/example_04_operators.js"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_09/example_04_operators.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
@@ -88,7 +88,7 @@ nav_exclude: True
             <td align="right">4/29/2019 10:40 AM</td>
             <td>627.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_09/example_05_functions.js"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_09/example_05_functions.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>

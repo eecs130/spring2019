@@ -37,7 +37,7 @@ nav_exclude: True
             <td align="right">5/2/2019 2:14 PM</td>
             <td>699.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab05/03-color-mixer-optional/js/index.js"
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/labs/lab05/03-color-mixer-optional/js/index.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
