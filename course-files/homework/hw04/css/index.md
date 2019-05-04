@@ -37,6 +37,8 @@ nav_exclude: True
             <td align="right">4/26/2019 4:31 PM</td>
             <td>1.1KB</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw04/css/carousel.css"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -49,6 +51,8 @@ nav_exclude: True
             <td align="right">4/26/2019 4:04 PM</td>
             <td>655.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw04/css/gallery.css"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

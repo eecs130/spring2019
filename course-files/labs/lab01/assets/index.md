@@ -46,6 +46,8 @@ nav_exclude: True
             <td align="right">4/1/2019 9:02 AM</td>
             <td>26.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab01/assets/style.css"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

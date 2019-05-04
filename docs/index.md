@@ -292,7 +292,11 @@ permalink: /
                 AJAX + Templating
             </td>
             <td></td>
-            <td><span class="label label-green">Homework 5</span></td>
+            <td>
+                <span class="label label-green">Homework 5</span>
+                 <a class="label" href="course-files/project/part01/README">Project 1 <i class="fas fa-link"></i></a>
+                
+            </td>
         </tr>
         <tr>
             <td></td>

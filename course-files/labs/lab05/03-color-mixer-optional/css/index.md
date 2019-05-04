@@ -37,6 +37,8 @@ nav_exclude: True
             <td align="right">5/2/2019 5:56 PM</td>
             <td>495.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab05/03-color-mixer-optional/css/style.css"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

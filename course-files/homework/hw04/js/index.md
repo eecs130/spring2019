@@ -37,6 +37,8 @@ nav_exclude: True
             <td align="right">4/26/2019 5:19 PM</td>
             <td>2.1KB</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw04/js/index.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

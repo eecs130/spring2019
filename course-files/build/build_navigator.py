@@ -89,7 +89,7 @@ nav_exclude: ${exclude}
             <td align="right">${f['time']}</td>
             <td>${f['size']}</td>
             <td>
-                % if f['name'].endswith(('py', 'ipynb', 'txt', 'html')):
+                % if f['name'].endswith(('py', 'ipynb', 'txt', 'html', 'css', 'js')):
                     <a href="${github_path}/${header}${f['name']}"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 % endif
@@ -164,6 +164,7 @@ def fun(dir, rootdir, counter):
         'course-files/labs/',
         'course-files/homework/',
         'course-files/tutorials/',
+        'course-files/project/',
         'course-files/projects/',
         'course-files/practice_exams/'
     ]

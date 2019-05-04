@@ -37,6 +37,8 @@ nav_exclude: True
             <td align="right">4/29/2019 1:16 PM</td>
             <td>294.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/answers/font-switcher/js/index.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

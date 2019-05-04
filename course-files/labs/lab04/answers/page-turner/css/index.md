@@ -37,6 +37,8 @@ nav_exclude: True
             <td align="right">4/25/2019 11:11 PM</td>
             <td>1.7KB</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab04/answers/page-turner/css/style.css"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

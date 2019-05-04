@@ -55,6 +55,8 @@ nav_exclude: True
             <td align="right">4/30/2019 11:54 AM</td>
             <td>850.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_02_datatypes.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -67,6 +69,8 @@ nav_exclude: True
             <td align="right">4/30/2019 11:54 AM</td>
             <td>999.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_03_variables.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -79,6 +83,8 @@ nav_exclude: True
             <td align="right">4/30/2019 11:54 AM</td>
             <td>1.4KB</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_04_operators.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -91,6 +97,8 @@ nav_exclude: True
             <td align="right">5/1/2019 9:31 AM</td>
             <td>611.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_05_functions.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -103,6 +111,8 @@ nav_exclude: True
             <td align="right">5/1/2019 10:03 AM</td>
             <td>718.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_06_events.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -115,6 +125,8 @@ nav_exclude: True
             <td align="right">5/1/2019 11:49 AM</td>
             <td>655.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_07_conditionals.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -127,6 +139,8 @@ nav_exclude: True
             <td align="right">5/1/2019 11:30 AM</td>
             <td>106.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_08_iteration.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -139,6 +153,8 @@ nav_exclude: True
             <td align="right">5/1/2019 11:56 AM</td>
             <td>636.0B</td>
             <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_10/example_09_dom_traversal.js"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

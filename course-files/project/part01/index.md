@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Css
+title: Part01
 nav_exclude: True
 ---
 
-# Css
+# Part01
 
-[course-files/labs/lab05/02-rock-paper-scissors/css/](.)
+[course-files/project/part01/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -32,13 +32,13 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
-                    <a href="style.css">style.css</a>
+                    <a href="README">
+                        Readme
+                    </a>
             </td>
-            <td align="right">5/2/2019 1:53 PM</td>
-            <td>1000.0B</td>
+            <td align="right">5/3/2019 6:55 PM</td>
+            <td>288.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/labs/lab05/02-rock-paper-scissors/css/style.css"
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>

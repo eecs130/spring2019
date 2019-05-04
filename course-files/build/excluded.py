@@ -1,7 +1,6 @@
 EXCLUDED = [
-    'projects',
-    'exams',
-    #'homework',
+    # 'project',
+    # 'homework',
     # 'lectures',
     #'labs',
     'build.sh',
