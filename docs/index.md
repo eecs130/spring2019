@@ -293,9 +293,8 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label label-green">Homework 5</span>
-                 <a class="label" href="course-files/project/part01/README">Project 1 <i class="fas fa-link"></i></a>
-                
+                <a class="label label-green" href="course-files/homework/hw05/README">Homework 5 <i class="fas fa-link"></i></a>
+                <a class="label" href="course-files/project/part01/README">Project 1 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
