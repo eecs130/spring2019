@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="index.js">index.js</a>
             </td>
-            <td align="right">5/5/2019 3:17 AM</td>
-            <td>543.0B</td>
+            <td align="right">5/5/2019 5:23 PM</td>
+            <td>863.0B</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/homework/hw05/04-add-numbers/js/index.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

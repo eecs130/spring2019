@@ -1,3 +1,5 @@
+////////////////////////////////////////////////////////////////
+// Just some helper code to generate a list of 100 numbers:
 const random = (min, max) => {
     var num = Math.floor(Math.random() * (max + 1 - min) + min)
     return num
@@ -10,15 +12,23 @@ const makeNumberList = (howMany) => {
     }
     return numbers
 };
-
 const numbers = makeNumberList(100)
+// End helper code
+////////////////////////////////////////////////////////////////
+
+
+
+// Using a for / of loop, iterate through the list of
+// numbers and add them all together. Then, write the
+// final result to the document.
+// Replace the code below with your code:
 console.log(numbers)
 let sum = 0
+sum += numbers[0];
+sum += numbers[1];
+sum += numbers[2];
+//...
+sum += numbers[99];
 
-//TODO: In the section below, write a loop that adds all 100 numbers together:
-sum += numbers[0]
-sum += numbers[1]
-sum += numbers[2]
-// ...all the way to 100
 
 document.write('The sum is: ' + sum)

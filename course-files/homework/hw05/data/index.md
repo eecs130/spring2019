@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="bikes.json">bikes.json</a>
             </td>
-            <td align="right">5/5/2019 4:48 PM</td>
-            <td>898.0B</td>
+            <td align="right">5/5/2019 4:55 PM</td>
+            <td>620.0B</td>
             <td>
             </td>
         </tr>
