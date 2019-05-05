@@ -60,8 +60,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="index.js">index.js</a>
             </td>
-            <td align="right">5/5/2019 4:38 PM</td>
-            <td>3.5KB</td>
+            <td align="right">5/5/2019 4:47 PM</td>
+            <td>3.2KB</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/homework/hw05/05-gallery-ajax/js/index.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

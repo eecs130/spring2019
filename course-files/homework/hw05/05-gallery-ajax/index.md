@@ -32,8 +32,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="css">css</a></td>
-            <td align="right">5/5/2019 3:45 PM</td>
-            <td>160.0B</td>
+            <td align="right">5/5/2019 4:40 PM</td>
+            <td>192.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -50,8 +50,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="js">js</a></td>
-            <td align="right">5/5/2019 4:38 PM</td>
-            <td>160.0B</td>
+            <td align="right">5/5/2019 4:40 PM</td>
+            <td>192.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">

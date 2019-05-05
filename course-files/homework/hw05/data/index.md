@@ -32,6 +32,30 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
+                    <a href="bikes.json">bikes.json</a>
+            </td>
+            <td align="right">5/5/2019 4:48 PM</td>
+            <td>898.0B</td>
+            <td>
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
+                    <a href="cars.json">cars.json</a>
+            </td>
+            <td align="right">5/5/2019 4:47 PM</td>
+            <td>898.0B</td>
+            <td>
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
                     <a href="flowers.json">flowers.json</a>
             </td>
             <td align="right">5/5/2019 4:34 PM</td>

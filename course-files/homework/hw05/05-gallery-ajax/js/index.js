@@ -1,3 +1,4 @@
+const serverURL = 'https://raw.githubusercontent.com/eecs130/spring2019/master/course-files/homework/hw05/data/';
 const loadCards = (photos) => {
     console.log(JSON.stringify(photos));
     // clear out existing cards:
@@ -14,39 +15,28 @@ const loadCards = (photos) => {
     }
 };
 
-const loadFlowers = () => {
-    fetch('flowers.json')
+const loadImages = (ev) => {
+    let url = serverURL;
+    if (ev) {
+        if (ev.target.id === 'bikes-button') {
+            url += 'bikes.json';
+        } else if (ev.target.id === 'cars-button') {
+            url += 'cars.json';
+        }
+    } else {
+        url += 'flowers.json' 
+    }
+    fetch(url)
         .then((response) => {
-            return response.json
+            return response.json();
         })
         .then((data) => {
+            console.log(data);
             loadCards(data);
             initCarousel();
         });
-    // loadCards([
-    //     'images/poppies.jpg',
-    //     'images/dogwoods.jpg',
-    //     'images/blossom.jpg',
-    //     'images/field3.jpg',
-    //     'images/field4.jpg',
-    //     'images/branch.jpg',
-    //     'images/red.jpg',
-    //     'images/purple2.jpg',
-    //     'images/field1.jpg',
-    //     'images/purple.jpg',
-    //     'images/jar.jpg',
-    //     'images/green.jpg',
-    //     'images/green1.jpg',
-    //     'images/purple1.jpg',
-    //     'images/magnolias.jpg',
-    //     'images/daisy1.jpg'
-    // ]
-    //);
-    // necessary to re-attach all event handlers after
-    // you load a new set of images
-    // initCarousel();
 };
-document.querySelector('#flowers-button').onclick = loadFlowers;
+document.querySelector('#flowers-button').onclick = loadImages;
 
 const loadCars = () => {
     loadCards([
@@ -84,4 +74,4 @@ const loadBikes = () => {
 document.querySelector('#bikes-button').onclick = loadBikes;
 
 // default to the flowers:
-loadFlowers();
+loadImages();
