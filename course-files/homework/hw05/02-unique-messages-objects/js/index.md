@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="index.js">index.js</a>
             </td>
-            <td align="right">5/5/2019 5:12 PM</td>
-            <td>1.2KB</td>
+            <td align="right">5/5/2019 9:18 PM</td>
+            <td>966.0B</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/homework/hw05/02-unique-messages-objects/js/index.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
