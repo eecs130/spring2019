@@ -280,7 +280,8 @@ permalink: /
             <td>Week 6</td>
             <td>
                 <strong>Mo May 6</strong><br>
-                Lists and Loops
+                Lists and Loops<br>
+                <a href="https://docs.google.com/presentation/d/1Uf3mR6OGt3BPdjlFpGpmMyFx_Iia7QIWksNOxfZ59e4/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td></td>
             <td></td>
