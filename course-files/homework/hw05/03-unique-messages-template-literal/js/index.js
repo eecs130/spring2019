@@ -9,15 +9,23 @@ const people = [
 ];
 
 
-for (person of people) {
-    let template = `
-        <div class="card">
-            <img src="${person.pic}">
-        </div>
-        <div class="player-detail">
-            <p>${person.name}'s high score is: ${person.score}</p>
-        </div>
-    `;
-    // append each 'row' to the .players element:
-    document.querySelector(".players").innerHTML += template;
-}
+let template = `
+    <div class="card">
+        <img src="${people[0].pic}">
+    </div>
+    <div class="player-detail">
+        <p>${people[0].name}'s high score is: ${people[0].score}</p>
+    </div>
+`;
+document.querySelector(".players").innerHTML += template;
+
+template = `
+    <div class="card">
+        <img src="${people[1].pic}">
+    </div>
+    <div class="player-detail">
+        <p>${people[1].name}'s high score is: ${people[1].score}</p>
+    </div>
+`;
+document.querySelector(".players").innerHTML += template;
+
