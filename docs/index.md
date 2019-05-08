@@ -296,7 +296,6 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <a class="label label-green" href="course-files/homework/hw05/README">Homework 5 <i class="fas fa-link"></i></a>
                 <a class="label" href="course-files/project/part01/README">Project 1 <i class="fas fa-link"></i></a>
             </td>
         </tr>
@@ -307,7 +306,20 @@ permalink: /
                 Activity: AJAX + Templating: List and Detail pages
             </td>
             <td></td>
-            <td><span class="label label-default">Lab 6</span></td>
+            <td>
+                <a class="label label-default" href="https://docs.google.com/presentation/d/1YpOeYqdNL-jItG_8-lIrYrTDNB4U78iOCVL-jlpOIvg/edit?usp=sharing" target="_blank">Lab 6 <i class="fas fa-link"></i></a>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <strong>Su May 12</strong><br>
+                Homework Due
+            </td>
+            <td></td>
+            <td>
+                <a class="label label-green" href="course-files/homework/hw05/README">Homework 5 <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <!-- WEEK #7 -->
         <tr>
