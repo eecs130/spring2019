@@ -290,7 +290,9 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 8</strong><br>
-                AJAX + Templating
+                AJAX + Templating<br>
+                <a href="https://docs.google.com/presentation/d/1j4yJYRrvrFY5ZwoGLl2Pdw2-qPmvtdXcFElVZKsHPDo/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="course-files/lectures/lecture_12.zip">lecture files</a>
             </td>
             <td></td>
             <td>
