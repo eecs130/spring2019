@@ -63,7 +63,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab01.zip">lab01.zip</a>
             </td>
-            <td align="right">5/8/2019 9:10 AM</td>
+            <td align="right">5/8/2019 9:29 AM</td>
             <td>763.6KB</td>
             <td>
             </td>
@@ -75,7 +75,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab04.zip">lab04.zip</a>
             </td>
-            <td align="right">5/8/2019 9:10 AM</td>
+            <td align="right">5/8/2019 9:29 AM</td>
             <td>17.5KB</td>
             <td>
             </td>
@@ -87,7 +87,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab05.zip">lab05.zip</a>
             </td>
-            <td align="right">5/8/2019 9:10 AM</td>
+            <td align="right">5/8/2019 9:29 AM</td>
             <td>6.8KB</td>
             <td>
             </td>
