@@ -40,15 +40,6 @@ nav_exclude: True
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
-            <td><a href="images">images</a></td>
-            <td align="right">5/7/2019 1:44 PM</td>
-            <td>672.0B</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <i class="fa fa-folder"></i>
-            </td>
             <td><a href="js">js</a></td>
             <td align="right">5/8/2019 8:40 AM</td>
             <td>224.0B</td>
