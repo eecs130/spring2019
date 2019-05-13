@@ -296,7 +296,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <a class="label" href="course-files/project/part01/README">Project 1 <i class="fas fa-link"></i></a>
+                <a class="label" href="course-files/project/part01/README">Project Proposal <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -326,7 +326,8 @@ permalink: /
             <td>Week 7</td>
             <td>
                 <strong>Mo May 13</strong><br>
-                Web Architecture and cURLing
+                REST and Third-Party APIs (Part 1)<br>
+                <a href="https://docs.google.com/presentation/d/1cMyz5f32CMiOpDc1A--LdhKyNEvcJeCPF1y5J-cilfE/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td></td>
             <td></td>
@@ -335,7 +336,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 15</strong><br>
-                REST
+                REST and Third-Party APIs (Part 2)
             </td>
             <td></td>
             <td>
@@ -345,20 +346,23 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr May 17</strong><br>
-                Activity: Designing a REST API with Node.js + Heroku
+                Activity: Querying and leveraging third-party API content
             </td>
             <td></td>
-            <td><span class="label label-default">Lab 7</span></td>
+            <td>
+                <span class="label label-default">Lab 7</span>
+                <a class="label label-green" href="course-files/homework/hw06/README">Homework 6 <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Su May 19</strong><br>
-                Homework Due
+                Project Deliverable #1 Due
             </td>
             <td></td>
             <td>
-                <span class="label label-green">Homework 6</span>
+                <span class="label">Project Deliverable #1</span>
             </td>
         </tr>
         <!-- WEEK #8 -->
@@ -366,7 +370,7 @@ permalink: /
             <td>Week 8</td>
             <td>
                 <strong>Mo May 20</strong><br>
-                Designing a REST API: Continued
+                Designing a REST API (Part 1)
             </td>
             <td></td>
             <td></td>
@@ -375,7 +379,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 22</strong><br>
-                Forms
+                Designing a REST API (Part 2)
             </td>
             <td></td>
             <td></td>
@@ -393,11 +397,11 @@ permalink: /
             <td></td>
             <td>
                 <strong>Su May 26</strong><br>
-                Homework Due
+                Project Deliverable #2 Due
             </td>
             <td></td>
             <td>
-                <span class="label label-green">Homework 7</span>
+                <span class="label">Project Deliverable #2</span>
             </td>
         </tr>
         <!-- WEEK #9 -->
@@ -414,10 +418,11 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 29</strong><br>
-                Working with third-party APIs (part 1)
             </td>
             <td></td>
-            <td></td>
+            <td>
+                <span class="label label-green">Homework 7</span>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -432,11 +437,11 @@ permalink: /
             <td></td>
             <td>
                 <strong>Su Jun 2</strong><br>
-                Homework Due
+                Project Deliverable #3 Due
             </td>
             <td></td>
             <td>
-                <span class="label label-green">Homework 8</span>
+                <span class="label">Project Deliverable #3</span>
             </td>
         </tr>
         <!-- WEEK #10 -->
@@ -465,7 +470,10 @@ permalink: /
                 Final Project Presentations
             </td>
             <td></td>
-            <td><span class="label label-purple">Final Project</span></td>
+            <td>
+                <span class="label label-purple">Final Project Presentation</span>
+                <span class="label label-purple">Final Project Submission</span>
+            </td>
         </tr>
     </tbody>
 </table>
