@@ -48,8 +48,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="index.js">index.js</a>
             </td>
-            <td align="right">5/8/2019 8:40 AM</td>
-            <td>700.0B</td>
+            <td align="right">5/12/2019 3:17 PM</td>
+            <td>800.0B</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_12/flickr/js/index.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -76,8 +76,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="tester.js">tester.js</a>
             </td>
-            <td align="right">5/8/2019 8:34 AM</td>
-            <td>696.0B</td>
+            <td align="right">5/12/2019 3:17 PM</td>
+            <td>840.0B</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_12/flickr/js/tester.js"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

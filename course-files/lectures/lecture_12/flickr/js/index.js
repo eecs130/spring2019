@@ -1,10 +1,11 @@
-const serverURL = 'https://api-helpers.herokuapp.com/flickr-proxy-simple/';
+const serverURL = 'https://www.apitutor.org/flickr/simple/';
 
-const getPhotos = () => {
-    fetch(serverURL + '?tags=flowers')
+const getPhotos = (ev) => {
+    fetch(serverURL + '?tags=' + ev.target.innerHTML)
         .then(response => response.json())
         .then(loadCards);
 };
+
 
 const loadCards = (items) => {
     document.querySelector('.cards').innerHTML = '';
@@ -20,4 +21,8 @@ const loadCards = (items) => {
     initCarousel();
 };
 
-getPhotos();
+for (elem of document.querySelectorAll('.buttons button')) {
+    elem.onclick = getPhotos;
+}
+
+//getFlowers();

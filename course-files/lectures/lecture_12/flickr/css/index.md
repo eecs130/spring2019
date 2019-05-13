@@ -62,7 +62,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="instructions.css">instructions.css</a>
             </td>
-            <td align="right">5/8/2019 9:05 AM</td>
+            <td align="right">5/11/2019 10:25 PM</td>
             <td>746.0B</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_12/flickr/css/instructions.css"

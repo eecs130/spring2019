@@ -339,7 +339,6 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label label-green">Homework 6</span>
             </td>
         </tr>
         <tr>
@@ -350,6 +349,17 @@ permalink: /
             </td>
             <td></td>
             <td><span class="label label-default">Lab 7</span></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <strong>Su May 19</strong><br>
+                Homework Due
+            </td>
+            <td></td>
+            <td>
+                <span class="label label-green">Homework 6</span>
+            </td>
         </tr>
         <!-- WEEK #8 -->
         <tr>
@@ -368,9 +378,7 @@ permalink: /
                 Forms
             </td>
             <td></td>
-            <td>
-                <span class="label label-green">Homework 7</span>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -380,6 +388,17 @@ permalink: /
             </td>
             <td></td>
             <td><span class="label label-default">Lab 8</span></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <strong>Su May 26</strong><br>
+                Homework Due
+            </td>
+            <td></td>
+            <td>
+                <span class="label label-green">Homework 7</span>
+            </td>
         </tr>
         <!-- WEEK #9 -->
         <tr>
@@ -398,9 +417,7 @@ permalink: /
                 Working with third-party APIs (part 1)
             </td>
             <td></td>
-            <td>
-                <span class="label label-green">Homework 8</span>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -410,6 +427,17 @@ permalink: /
             </td>
             <td></td>
             <td><span class="label label-default">Lab 9</span></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <strong>Su Jun 2</strong><br>
+                Homework Due
+            </td>
+            <td></td>
+            <td>
+                <span class="label label-green">Homework 8</span>
+            </td>
         </tr>
         <!-- WEEK #10 -->
         <tr>
