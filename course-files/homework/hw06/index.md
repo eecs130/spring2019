@@ -32,8 +32,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="flickr">flickr</a></td>
-            <td align="right">5/12/2019 11:14 PM</td>
-            <td>128.0B</td>
+            <td align="right">5/13/2019 11:17 AM</td>
+            <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -41,8 +41,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="spotify">spotify</a></td>
-            <td align="right">5/12/2019 11:14 PM</td>
-            <td>128.0B</td>
+            <td align="right">5/13/2019 11:17 AM</td>
+            <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -50,8 +50,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="twitter">twitter</a></td>
-            <td align="right">5/12/2019 11:13 PM</td>
-            <td>128.0B</td>
+            <td align="right">5/13/2019 11:17 AM</td>
+            <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -59,8 +59,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="yelp">yelp</a></td>
-            <td align="right">5/12/2019 11:13 PM</td>
-            <td>128.0B</td>
+            <td align="right">5/13/2019 11:17 AM</td>
+            <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -68,8 +68,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="youtube">youtube</a></td>
-            <td align="right">5/12/2019 11:13 PM</td>
-            <td>128.0B</td>
+            <td align="right">5/13/2019 11:17 AM</td>
+            <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">

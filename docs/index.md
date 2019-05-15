@@ -350,7 +350,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label label-default">Lab 7</span>
+                <a class="label label-default" href="course-files/labs/lab07/README" target="_blank">Lab 7 <i class="fas fa-link"></i></a>
                 <a class="label label-green" href="course-files/homework/hw06/README">Homework 6 <i class="fas fa-link"></i></a>
             </td>
         </tr>
@@ -362,7 +362,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <span class="label">Project Deliverable #1</span>
+                <a class="label" href="course-files/project/part02/README">Project Deliverable #1 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <!-- WEEK #8 -->

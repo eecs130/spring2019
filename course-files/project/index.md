@@ -38,6 +38,15 @@ nav_exclude: False
             <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="part02">part02</a></td>
+            <td align="right">5/15/2019 8:44 AM</td>
+            <td>128.0B</td>
+            <td>&nbsp;</td>
+        </tr>
     </tbody>
 </table>
 
