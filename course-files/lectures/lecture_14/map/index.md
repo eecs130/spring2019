@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lab07
+title: Map
 nav_exclude: True
 ---
 
-# Lab07
+# Map
 
-[course-files/labs/lab07/](.)
+[course-files/lectures/lecture_14/map/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -27,19 +27,23 @@ nav_exclude: True
             <td>&nbsp;</td>
         </tr>
 
-        <tr class="click-to-preview">
-            <td class="first-column">
-                    <i class="far fa-file"></i>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
             </td>
-            <td nowrap>
-                    <a href="README">
-                        Readme
-                    </a>
+            <td><a href="css">css</a></td>
+            <td align="right">5/15/2019 10:08 AM</td>
+            <td>96.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
             </td>
-            <td align="right">5/15/2019 9:01 AM</td>
-            <td>992.0B</td>
-            <td>
-            </td>
+            <td><a href="js">js</a></td>
+            <td align="right">5/15/2019 10:14 AM</td>
+            <td>128.0B</td>
+            <td>&nbsp;</td>
         </tr>
     </tbody>
 </table>

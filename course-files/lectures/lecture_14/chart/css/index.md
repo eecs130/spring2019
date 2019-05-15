@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lab07
+title: Css
 nav_exclude: True
 ---
 
-# Lab07
+# Css
 
-[course-files/labs/lab07/](.)
+[course-files/lectures/lecture_14/chart/css/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -32,13 +32,13 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
-                    <a href="README">
-                        Readme
-                    </a>
+                    <a href="style.css">style.css</a>
             </td>
-            <td align="right">5/15/2019 9:01 AM</td>
-            <td>992.0B</td>
+            <td align="right">5/15/2019 11:15 AM</td>
+            <td>152.0B</td>
             <td>
+                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_14/chart/css/style.css"
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>
