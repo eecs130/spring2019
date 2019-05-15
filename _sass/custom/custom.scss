@@ -115,11 +115,12 @@ code, pre.highlight {
 // }
 
 .page-content {
+    
     ul, ol {
         padding-left: 4em;
     }
-    a {
-        white-space: normal;
+    a.label, span.label {
+        white-space: normal !important;
     }
 
     td, th {
