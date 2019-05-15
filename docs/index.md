@@ -336,7 +336,9 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 15</strong><br>
-                REST and Third-Party APIs (Part 2)
+                REST and Third-Party APIs (Part 2)<br>
+                <a href="https://docs.google.com/presentation/d/1bH53pzz6RpsSRGTKzW-WnIg00muC0t4SS0TS0kw_d3Q/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="course-files/lectures/lecture_14.zip">lecture files</a>
             </td>
             <td></td>
             <td>
@@ -350,7 +352,7 @@ permalink: /
             </td>
             <td></td>
             <td>
-                <a class="label label-default" href="course-files/labs/lab07/README" target="_blank">Lab 7 <i class="fas fa-link"></i></a>
+                <a class="label label-default" href="course-files/labs/lab07/README">Lab 7 <i class="fas fa-link"></i></a>
                 <a class="label label-green" href="course-files/homework/hw06/README">Homework 6 <i class="fas fa-link"></i></a>
             </td>
         </tr>

@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="style.css">style.css</a>
             </td>
-            <td align="right">5/15/2019 10:24 AM</td>
-            <td>80.0B</td>
+            <td align="right">5/15/2019 11:33 AM</td>
+            <td>83.0B</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/lectures/lecture_14/map/css/style.css"
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
