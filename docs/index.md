@@ -372,7 +372,9 @@ permalink: /
             <td>Week 8</td>
             <td>
                 <strong>Mo May 20</strong><br>
-                Designing a REST API (Part 1)
+                Designing a REST API (Part 1)<br>
+                <a href="https://docs.google.com/presentation/d/1WM0b9YTQuwhVF7zoXq2q-_nZvAFBjsrlwU9DXX261ls/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="https://docs.google.com/document/d/1pDadK2t2Pepw4nU6wF9gUBp0nJtN4FzVhcbIdxdKbnk/edit?usp=sharing" target="_blank">activity</a>
             </td>
             <td></td>
             <td></td>
