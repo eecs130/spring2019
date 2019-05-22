@@ -65,6 +65,15 @@ nav_exclude: False
             <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="lab08">lab08</a></td>
+            <td align="right">5/22/2019 9:43 AM</td>
+            <td>192.0B</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr class="click-to-preview">
             <td class="first-column">
                     <i class="far fa-file-archive"></i>
@@ -72,7 +81,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab01.zip">lab01.zip</a>
             </td>
-            <td align="right">5/20/2019 2:10 PM</td>
+            <td align="right">5/22/2019 10:52 AM</td>
             <td>763.6KB</td>
             <td>
             </td>
@@ -84,7 +93,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab04.zip">lab04.zip</a>
             </td>
-            <td align="right">5/20/2019 2:10 PM</td>
+            <td align="right">5/22/2019 10:52 AM</td>
             <td>17.5KB</td>
             <td>
             </td>
@@ -96,7 +105,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab05.zip">lab05.zip</a>
             </td>
-            <td align="right">5/20/2019 2:10 PM</td>
+            <td align="right">5/22/2019 10:52 AM</td>
             <td>6.8KB</td>
             <td>
             </td>
@@ -108,8 +117,20 @@ nav_exclude: False
             <td nowrap>
                     <a href="lab07.zip">lab07.zip</a>
             </td>
-            <td align="right">5/20/2019 2:10 PM</td>
+            <td align="right">5/22/2019 10:52 AM</td>
             <td>685.0B</td>
+            <td>
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file-archive"></i>
+            </td>
+            <td nowrap>
+                    <a href="lab08.zip">lab08.zip</a>
+            </td>
+            <td align="right">5/22/2019 10:52 AM</td>
+            <td>4.3KB</td>
             <td>
             </td>
         </tr>

@@ -244,9 +244,9 @@ permalink: /
             <td>
                 <strong>Mo Apr 29</strong><br>
                 Building blocks of programming<br>
-                <a href="https://docs.google.com/presentation/d/1-J7AL3vxSGsC9iK3QjQyJumvqOuoZcM8YfOvt976qWo/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="https://docs.google.com/presentation/d/1-J7AL3vxSGsC9iK3QjQyJumvqOuoZcM8YfOvt976qWo/edit?usp=sharing" target="_blank">slides</a> |
                 <a href="course-files/lectures/lecture_09.zip">lecture files</a>
-                
+
             </td>
             <td></td>
             <td></td>
@@ -256,7 +256,7 @@ permalink: /
             <td>
                 <strong>We May 1</strong><br>
                 Functions, events, and control<br>
-                <a href="https://docs.google.com/presentation/d/1Mbr2YAjnCpBDrPyGZoaBd-r7lHd5IYJIveHejZDPxgg/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="https://docs.google.com/presentation/d/1Mbr2YAjnCpBDrPyGZoaBd-r7lHd5IYJIveHejZDPxgg/edit?usp=sharing" target="_blank">slides</a> |
                 <a href="course-files/lectures/lecture_10.zip">lecture files</a>
             </td>
             <td></td>
@@ -291,7 +291,7 @@ permalink: /
             <td>
                 <strong>We May 8</strong><br>
                 AJAX + Templating<br>
-                <a href="https://docs.google.com/presentation/d/1j4yJYRrvrFY5ZwoGLl2Pdw2-qPmvtdXcFElVZKsHPDo/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="https://docs.google.com/presentation/d/1j4yJYRrvrFY5ZwoGLl2Pdw2-qPmvtdXcFElVZKsHPDo/edit?usp=sharing" target="_blank">slides</a> |
                 <a href="course-files/lectures/lecture_12.zip">lecture files</a>
             </td>
             <td></td>
@@ -337,7 +337,7 @@ permalink: /
             <td>
                 <strong>We May 15</strong><br>
                 REST and Third-Party APIs (Part 2)<br>
-                <a href="https://docs.google.com/presentation/d/1bH53pzz6RpsSRGTKzW-WnIg00muC0t4SS0TS0kw_d3Q/edit?usp=sharing" target="_blank">slides</a> | 
+                <a href="https://docs.google.com/presentation/d/1bH53pzz6RpsSRGTKzW-WnIg00muC0t4SS0TS0kw_d3Q/edit?usp=sharing" target="_blank">slides</a> |
                 <a href="course-files/lectures/lecture_14.zip">lecture files</a>
             </td>
             <td></td>
@@ -373,8 +373,8 @@ permalink: /
             <td>
                 <strong>Mo May 20</strong><br>
                 Designing a REST API (Part 1)<br>
-                <a href="https://docs.google.com/presentation/d/1WM0b9YTQuwhVF7zoXq2q-_nZvAFBjsrlwU9DXX261ls/edit?usp=sharing" target="_blank">slides</a> | 
-                <a href="https://docs.google.com/document/d/1pDadK2t2Pepw4nU6wF9gUBp0nJtN4FzVhcbIdxdKbnk/edit?usp=sharing" target="_blank">activity</a> | 
+                <a href="https://docs.google.com/presentation/d/1WM0b9YTQuwhVF7zoXq2q-_nZvAFBjsrlwU9DXX261ls/edit?usp=sharing" target="_blank">slides</a> |
+                <a href="https://docs.google.com/document/d/1pDadK2t2Pepw4nU6wF9gUBp0nJtN4FzVhcbIdxdKbnk/edit?usp=sharing" target="_blank">activity</a> |
                 <a href="course-files/lectures/lecture_15.zip">lecture files</a>
             </td>
             <td></td>
@@ -384,7 +384,10 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 22</strong><br>
-                Designing a REST API (Part 2)
+                Designing a REST API (Part 2)<br>
+                <a href="https://docs.google.com/presentation/d/1E0fQ-ok8TwDRjQOFswsaq-f0ue1BTyeI1S5OWzByuDA/edit?usp=sharing" target="_blank">slides</a> |
+                <a href="course-files/labs/lab08/README">activity</a>  
+
             </td>
             <td></td>
             <td></td>
@@ -396,7 +399,9 @@ permalink: /
                 Activity: GET, POST, PUT, and DELETE
             </td>
             <td></td>
-            <td><span class="label label-default">Lab 8</span></td>
+            <td>
+                <a class="label label-default" href="course-files/labs/lab08/README">Lab 8 <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
