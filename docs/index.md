@@ -428,6 +428,10 @@ permalink: /
             <td></td>
             <td>
                 <strong>We May 29</strong><br>
+                Making a Photo Sharing App<br>
+                <a href="https://docs.google.com/presentation/d/1YvAyUkVztVpFd2eae12dH9OQVFKRgQrFXmxkarC0TJs/edit?usp=sharing" target="_blank">slides</a> |
+                <a href="course-files/labs/lab08/README">activity</a> 
+                
             </td>
             <td></td>
             <td>
@@ -441,7 +445,9 @@ permalink: /
                 Working with third-party APIs (part 2)
             </td>
             <td></td>
-            <td><span class="label label-default">Lab 9</span></td>
+            <td>
+                <span class="label label-default">Lab 9</span>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -481,6 +487,8 @@ permalink: /
             </td>
             <td></td>
             <td>
+
+                <a class="label label-green" href="course-files/homework/hw07/README">Homework 7 <i class="fas fa-link"></i></a>
                 <span class="label label-purple">Final Project Presentation</span>
                 <span class="label label-purple">Final Project Submission</span>
             </td>
