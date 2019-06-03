@@ -34,7 +34,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="index.css">index.css</a>
             </td>
-            <td align="right">5/29/2019 12:47 PM</td>
+            <td align="right">5/30/2019 7:23 AM</td>
             <td>4.1KB</td>
             <td>
                     <a href="https://github.com/eecs130/spring2019/blob/master/course-files/homework/hw07/css/index.css"

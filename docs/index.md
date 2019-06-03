@@ -483,14 +483,15 @@ permalink: /
             <td></td>
             <td>
                 <strong>Fr Jun 7</strong><br>
-                Final Project Presentations
+                Final Project Presentations<br>
+                See <a href="course-files/project/final/README">final project submission instructions</a>
             </td>
             <td></td>
             <td>
-
-                <a class="label label-green" href="course-files/homework/hw07/README">Homework 7 <i class="fas fa-link"></i></a>
-                <span class="label label-purple">Final Project Presentation</span>
-                <span class="label label-purple">Final Project Submission</span>
+                <a class="label label-green" href="course-files/homework/hw07/README">Homework 7 <i class="fas fa-link"></i>
+                </a>
+                
+                <a class="label label-purple" href="course-files/project/final/README">Final Project Submission <i class="fas fa-link"></i></a>
             </td>
         </tr>
     </tbody>

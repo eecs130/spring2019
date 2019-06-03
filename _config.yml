@@ -31,3 +31,6 @@ remote_theme: "pmarsceill/just-the-docs"
 aux_links:
     "Piazza <i class='fas fa-external-link-alt'></i>":
       - "//piazza.com/northwestern/spring2019/eecs130/home"
+
+exclude:
+    - node_modules

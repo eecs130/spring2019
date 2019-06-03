@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Js
+title: Final
 nav_exclude: True
 ---
 
-# Js
+# Final
 
-[course-files/homework/hw07/js/](.)
+[course-files/project/final/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -32,13 +32,13 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
-                    <a href="index.js">index.js</a>
+                    <a href="README">
+                        Readme
+                    </a>
             </td>
-            <td align="right">5/30/2019 7:24 AM</td>
-            <td>3.1KB</td>
+            <td align="right">6/3/2019 11:48 AM</td>
+            <td>370.0B</td>
             <td>
-                    <a href="https://github.com/eecs130/spring2019/blob/master/course-files/homework/hw07/js/index.js"
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
             </td>
         </tr>
     </tbody>
