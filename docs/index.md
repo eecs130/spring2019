@@ -465,7 +465,8 @@ permalink: /
             <td>Week 10</td>
             <td>
                 <strong>Mo Jun 3</strong><br>
-                TBD
+                HW7 Continued<br>
+                <a href="https://docs.google.com/presentation/d/1uqf06hyvNAvpTaqTL0faN6LT9s2RWB9R3bfPfwbcPes/edit?usp=sharing" target="_blank">slides</a>
             </td>
             <td></td>
             <td></td>
